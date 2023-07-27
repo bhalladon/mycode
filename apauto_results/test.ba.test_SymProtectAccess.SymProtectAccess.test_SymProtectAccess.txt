@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_SymProtectAccess.SymProtectAccess.test_SymProtectAccess:
+	FAIL: SymProtectAccessSupport failed
+SUMMARY:
+	 Ran 1 tests. 0 passed. 1 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_SymProtectAccess.SymProtectAccess.test_SymProtectAccess:
+	 SymProtectAccessSupport failed 

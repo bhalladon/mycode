@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_networktrust.Localhost.test:
+	PASS: "DBG_TRACE_TRUSTCLIENT" evaluated to 1; passed
+test.ba.test_networktrust.Localhost.test:
+	PASS: "DBG_TRACE_TRUSTSERVER" evaluated to 1; passed
+test.ba.test_networktrust.Localhost.test:
+	PASS: "Failing trust, id string matches ours.  Loopback share?" evaluated to 1; passed
+SUMMARY:
+	 Ran 3 tests. 3 passed. 0 failed. 100.00 percent passed. 

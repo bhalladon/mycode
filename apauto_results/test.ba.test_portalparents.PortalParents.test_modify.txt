@@ -1,0 +1,6 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+SUMMARY:
+	 Ran 0 tests. 0 passed. 0 failed. 0.00 percent passed. 

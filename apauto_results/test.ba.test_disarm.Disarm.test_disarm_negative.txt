@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_disarm.Disarm.test_disarm_negative:
+	PASS: "DBG_TRACE_DISARM.+Dont disarm .+TestPdf.bak" evaluated to 1; passed
+test.ba.test_disarm.Disarm.test_disarm_negative:
+	PASS: "DBG_TRACE_DISARM.+Received Disarm event for .+TestWordDoc.doc" evaluated to 1; passed
+test.ba.test_disarm.Disarm.test_disarm_negative:
+	PASS: "DBG_TRACE_DISARM.+Disarm request was handled successfully" evaluated to 1; passed
+SUMMARY:
+	 Ran 3 tests. 3 passed. 0 failed. 100.00 percent passed. 

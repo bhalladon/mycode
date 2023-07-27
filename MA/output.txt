@@ -1,0 +1,11 @@
+<!doctype html public "-//ietf//dtd html 2.0//en">
+<html><head>
+<title>403 forbidden</title>
+</head><body>
+<h1>forbidden</h1>
+<p>you don't have permission to access /partials/profiles/
+on this server.</p>
+<hr>
+<address>apache/2.2.22 (ubuntu) server at 10.138.128.2 port 8080</address>
+</body></html>
+

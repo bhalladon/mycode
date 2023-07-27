@@ -1,0 +1,40 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_disarm.Disarm.test_disarm_file:
+	PASS: Enable Disarm passed
+test.ba.test_disarm.Disarm.test_disarm_file:
+	FAIL: Got event! Nonviral failed
+test.ba.test_disarm.Disarm.test_disarm_file:
+	FAIL: Action 0: Repair failed
+test.ba.test_disarm.Disarm.test_disarm_file:
+	FAIL: Action 0 Flags: Succeeded failed
+test.ba.test_disarm.Disarm.test_disarm_file:
+	FAIL: Threat 0 Name: ActiveContent.DI.1 failed
+test.ba.test_disarm.Disarm.test_disarm_file:
+	FAIL: Threat 0 VID: 0xffff475a failed
+test.ba.test_disarm.Disarm.test_disarm_file:
+	FAIL: Threat Count: 1 failed
+test.ba.test_disarm.Disarm.test_disarm_file:
+	PASS: Disable Disarm passed
+test.ba.test_disarm.Disarm.test_disarm_file:
+	PASS: "DBG_TRACE_DISARM.+Received Disarm event" evaluated to 1; passed
+test.ba.test_disarm.Disarm.test_disarm_file:
+	PASS: "DBG_TRACE_DISARM.+Disarm request was handled successfully" evaluated to 1; passed
+SUMMARY:
+	 Ran 10 tests. 4 passed. 6 failed. 40.00 percent passed.
+
+Failed Cases: 
+test.ba.test_disarm.Disarm.test_disarm_file:
+	 Got event! Nonviral failed 
+test.ba.test_disarm.Disarm.test_disarm_file:
+	 Action 0: Repair failed 
+test.ba.test_disarm.Disarm.test_disarm_file:
+	 Action 0 Flags: Succeeded failed 
+test.ba.test_disarm.Disarm.test_disarm_file:
+	 Threat 0 Name: ActiveContent.DI.1 failed 
+test.ba.test_disarm.Disarm.test_disarm_file:
+	 Threat 0 VID: 0xffff475a failed 
+test.ba.test_disarm.Disarm.test_disarm_file:
+	 Threat Count: 1 failed 

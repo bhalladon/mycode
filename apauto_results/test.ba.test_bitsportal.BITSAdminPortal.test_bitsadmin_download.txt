@@ -1,0 +1,32 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	FAIL: Expect access denied failed
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	FAIL: Got event! Portal failed
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	FAIL: Portal Name: svchost.exe failed
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	FAIL: Got event! Viral failed
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	FAIL: Threat 0 Info: 42297 failed
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	FAIL: Threat 0 Name: WS.Trojan.H failed
+SUMMARY:
+	 Ran 6 tests. 0 passed. 6 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	 Expect access denied failed 
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	 Got event! Portal failed 
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	 Portal Name: svchost.exe failed 
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	 Got event! Viral failed 
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	 Threat 0 Info: 42297 failed 
+test.ba.test_bitsportal.BITSAdminPortal.test_bitsadmin_download:
+	 Threat 0 Name: WS.Trojan.H failed 

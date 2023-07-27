@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_exclusions.Exclusions.test_windows_update_exclusion:
+	FAIL: "\[DBG_TRACE_EXCLUSIONS\]: Process .+svchost\.exe is safe excluded by directory." evaluated to 0; failed
+SUMMARY:
+	 Ran 1 tests. 0 passed. 1 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_exclusions.Exclusions.test_windows_update_exclusion:
+	 "\[DBG_TRACE_EXCLUSIONS\]: Process .+svchost\.exe is safe excluded by directory." evaluated to 0; failed 

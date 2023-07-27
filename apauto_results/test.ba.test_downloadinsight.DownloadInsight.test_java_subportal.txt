@@ -1,0 +1,8 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_downloadinsight.DownloadInsight.test_java_subportal:
+	PASS: java passed
+SUMMARY:
+	 Ran 1 tests. 1 passed. 0 failed. 100.00 percent passed. 

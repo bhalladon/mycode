@@ -1,0 +1,10 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_bashevent.BBEvent.test_ransomware_exclusion_extension:
+	PASS: Ransomware passed
+test.ba.test_bashevent.BBEvent.test_ransomware_exclusion_extension:
+	PASS: "\[DBG_TRACE_RANSOMGUARD\]: Skipping excluded file [\w\\]+" evaluated to 1; passed
+SUMMARY:
+	 Ran 2 tests. 2 passed. 0 failed. 100.00 percent passed. 

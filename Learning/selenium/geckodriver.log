@@ -1,0 +1,1002 @@
+1483414132812	geckodriver	INFO	Listening on 127.0.0.1:36893
+1483414133810	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ySoyZ2KZxXdB
+1483414133811	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483414133813	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39216
+
+(firefox:9573): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483414134470	Marionette	INFO	Listening on port 39216
+1483414155131	geckodriver	INFO	Listening on 127.0.0.1:37451
+1483414156131	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SNw8BQ2Wnjal
+1483414156131	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483414156133	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40734
+
+(firefox:9722): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483414156792	Marionette	INFO	Listening on port 40734
+1483414885580	geckodriver	INFO	Listening on 127.0.0.1:50511
+1483414886580	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kEXsjDZAqzrM
+1483414886581	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483414886583	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36166
+
+(firefox:10846): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483414887265	Marionette	INFO	Listening on port 36166
+1483415010792	geckodriver	INFO	Listening on 127.0.0.1:45112
+1483415011792	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LrRmJB6AL7IB
+1483415011792	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415011794	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45708
+
+(firefox:11059): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415012454	Marionette	INFO	Listening on port 45708
+1483415207490	geckodriver	INFO	Listening on 127.0.0.1:40180
+1483415208489	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RGogmkMLyyLM
+1483415208489	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415208491	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44929
+
+(firefox:11410): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415209156	Marionette	INFO	Listening on port 44929
+1483415211595	geckodriver	INFO	Listening on 127.0.0.1:49646
+1483415212594	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DRn8Qf4QgEaz
+1483415212595	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415212596	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38620
+
+(firefox:11536): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415213250	Marionette	INFO	Listening on port 38620
+1483415284241	geckodriver	INFO	Listening on 127.0.0.1:59984
+1483415285242	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BVX5o5Z1s71T
+1483415285243	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415285245	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36266
+
+(firefox:11703): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415285902	Marionette	INFO	Listening on port 36266
+1483415288220	geckodriver	INFO	Listening on 127.0.0.1:44163
+1483415289220	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OxFPqHtbsrjZ
+1483415289221	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415289222	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39876
+
+(firefox:11830): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415289946	Marionette	INFO	Listening on port 39876
+1483415440670	geckodriver	INFO	Listening on 127.0.0.1:37065
+1483415441671	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YWKzqkQA2NVy
+1483415441671	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415441672	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43823
+
+(firefox:12107): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415442317	Marionette	INFO	Listening on port 43823
+1483415462724	geckodriver	INFO	Listening on 127.0.0.1:39709
+1483415463723	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HREF1jCRZrPU
+1483415463724	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415463725	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43968
+
+(firefox:12263): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415464426	Marionette	INFO	Listening on port 43968
+1483415495855	geckodriver	INFO	Listening on 127.0.0.1:36909
+1483415496854	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eSUPH2R9vNWW
+1483415496855	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415496856	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38321
+
+(firefox:12451): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415497512	Marionette	INFO	Listening on port 38321
+1483415499850	geckodriver	INFO	Listening on 127.0.0.1:50745
+1483415500849	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LEMYcfohy36A
+1483415500850	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415500851	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40141
+
+(firefox:12578): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415501512	Marionette	INFO	Listening on port 40141
+1483415678271	geckodriver	INFO	Listening on 127.0.0.1:55335
+1483415679271	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Dx85bZ0RdOrP
+1483415679272	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415679273	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36637
+
+(firefox:12881): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415679979	Marionette	INFO	Listening on port 36637
+1483415694154	geckodriver	INFO	Listening on 127.0.0.1:34730
+1483415695154	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.T1vgU6HOkp2l
+1483415695155	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415695156	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34089
+
+(firefox:13031): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415695808	Marionette	INFO	Listening on port 34089
+1483415742190	geckodriver	INFO	Listening on 127.0.0.1:47921
+1483415743190	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.51iLp3AQmSlj
+1483415743191	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415743193	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41260
+1483415743381	addons.manager	DEBUG	Application has been upgraded
+1483415743396	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1483415743398	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1483415743401	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1483415743402	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1483415743403	addons.manager	DEBUG	Starting provider: XPIProvider
+1483415743403	addons.xpi	DEBUG	startup
+1483415743404	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1483415743405	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1483415743405	addons.xpi	INFO	Mapping e10srollout@mozilla.org to /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1483415743405	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1483415743406	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1483415743406	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1483415743407	addons.xpi	DEBUG	checkForChanges
+1483415743407	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1483415743408	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1483415743409	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1483415743409	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1483415743410	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1483415743410	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1483415743411	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1483415743411	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1483415743411	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1483415743412	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1483415743412	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1483415743412	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"firefox@getpocket.com":{"d":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","st":1481290040000},"e10srollout@mozilla.org":{"d":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","st":1481290039000},"webcompat@mozilla.org":{"d":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","st":1481290040000},"aushelper@mozilla.org":{"d":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","st":1481290039000}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1481290039000}}}
+1483415743418	addons.xpi-utils	DEBUG	Opening XPI database /tmp/rust_mozprofile.51iLp3AQmSlj/extensions.json
+1483415743418	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1483415743429	DeferredSave.extensions.json	DEBUG	Save changes
+1483415743429	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1483415743431	DeferredSave.extensions.json	DEBUG	Starting timer
+1483415743432	DeferredSave.extensions.json	DEBUG	Save changes
+1483415743432	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1483415743435	DeferredSave.extensions.json	DEBUG	Save changes
+1483415743435	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1483415743439	DeferredSave.extensions.json	DEBUG	Save changes
+1483415743439	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1483415743443	DeferredSave.extensions.json	DEBUG	Save changes
+1483415743444	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1483415743449	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1483415743460	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1483415743460	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1483415743461	DeferredSave.extensions.json	DEBUG	Save changes
+1483415743461	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1483415743461	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1483415743463	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.5
+1483415743465	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1483415743465	DeferredSave.extensions.json	DEBUG	Save changes
+1483415743465	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1483415743466	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1483415743467	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.0
+1483415743467	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1483415743467	DeferredSave.extensions.json	DEBUG	Save changes
+1483415743468	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1483415743468	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1483415743470	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 1.0
+1483415743470	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1483415743470	DeferredSave.extensions.json	DEBUG	Save changes
+1483415743471	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1483415743471	DeferredSave.extensions.json	DEBUG	Save changes
+1483415743471	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{21d83f36-acda-4384-9cdf-0e8aed7fa7e1}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","installDate":1481290040000,"updateDate":1481290040000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":917398,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1483415743471	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1483415743472	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{da6c36c7-dae3-4983-9ea0-4386694c99d7}","location":"app-system-defaults","version":"1.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","installDate":1481290039000,"updateDate":1481290039000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":7210,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1483415743472	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1483415743472	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{46aa243d-bb5d-454e-b5f5-64a73d5cf3ae}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","installDate":1481290040000,"updateDate":1481290040000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1502,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1483415743472	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1483415743473	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{e40db94a-37cf-4fa5-abeb-9c1391561651}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","installDate":1481290039000,"updateDate":1481290039000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":5975,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true}
+1483415743473	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1483415743473	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{af4e2201-07b0-43f5-a710-8420f7a9e352}","location":"app-global","version":"50.1.0","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481290039000,"updateDate":1481290039000,"applyBackgroundUpdates":1,"skinnable":true,"size":4932,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.1.0"}],"targetPlatforms":[],"seen":true}
+1483415743473	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1483415743474	DeferredSave.extensions.json	DEBUG	Save changes
+1483415743475	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1483415743475	addons.xpi-utils	DEBUG	Updating add-on states
+1483415743475	addons.xpi-utils	DEBUG	Writing add-ons list
+1483415743476	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1483415743477	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1483415743478	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1483415743478	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.5
+1483415743479	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1483415743479	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1483415743479	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1483415743480	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1483415743481	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1483415743482	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1483415743482	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1483415743482	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1483415743482	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1483415743482	addons.manager	DEBUG	Starting provider: GMPProvider
+1483415743487	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1483415743487	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1483415743487	addons.manager	DEBUG	Starting provider: PluginProvider
+1483415743487	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1483415743487	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1483415743487	addons.manager	DEBUG	Completed startup sequence
+
+(firefox:13216): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415743835	Marionette	INFO	Listening on port 41260
+1483415744698	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1483415744699	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1483415744699	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1483415744715	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1483415744715	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1483415744716	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1483415744720	DeferredSave.extensions.json	DEBUG	Starting write
+1483415744801	DeferredSave.extensions.json	DEBUG	Write succeeded
+1483415744802	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1483415750027	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1483415750027	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.5
+1483415750027	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.0
+1483415750028	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 1.0
+1483415750178	addons.manager	DEBUG	shutdown
+1483415750178	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1483415750178	addons.xpi	DEBUG	shutdown
+1483415750178	addons.xpi-utils	DEBUG	shutdown
+1483415750179	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1483415750179	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1483415750181	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1483415750181	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1483415750183	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1483415750185	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1483415750189	addons.manager	DEBUG	Async provider shutdown done
+1483415950210	geckodriver	INFO	Listening on 127.0.0.1:52443
+1483415951209	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GFm0EZWYHJnc
+1483415951210	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483415951237	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43240
+1483415951480	addons.manager	DEBUG	Application has been upgraded
+1483415951493	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1483415951495	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1483415951498	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1483415951499	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1483415951500	addons.manager	DEBUG	Starting provider: XPIProvider
+1483415951500	addons.xpi	DEBUG	startup
+1483415951501	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1483415951502	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1483415951502	addons.xpi	INFO	Mapping e10srollout@mozilla.org to /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1483415951502	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1483415951502	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1483415951503	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1483415951503	addons.xpi	DEBUG	checkForChanges
+1483415951503	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1483415951504	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1483415951505	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1483415951505	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1483415951505	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1483415951506	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1483415951506	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1483415951506	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1483415951506	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1483415951507	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1483415951507	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1483415951507	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"firefox@getpocket.com":{"d":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","st":1481290040000},"e10srollout@mozilla.org":{"d":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","st":1481290039000},"webcompat@mozilla.org":{"d":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","st":1481290040000},"aushelper@mozilla.org":{"d":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","st":1481290039000}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1481290039000}}}
+1483415951513	addons.xpi-utils	DEBUG	Opening XPI database /tmp/rust_mozprofile.GFm0EZWYHJnc/extensions.json
+1483415951514	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1483415951522	DeferredSave.extensions.json	DEBUG	Save changes
+1483415951522	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1483415951524	DeferredSave.extensions.json	DEBUG	Starting timer
+1483415951525	DeferredSave.extensions.json	DEBUG	Save changes
+1483415951525	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1483415951528	DeferredSave.extensions.json	DEBUG	Save changes
+1483415951528	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1483415951531	DeferredSave.extensions.json	DEBUG	Save changes
+1483415951532	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1483415951534	DeferredSave.extensions.json	DEBUG	Save changes
+1483415951535	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1483415951539	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1483415951549	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1483415951549	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1483415951549	DeferredSave.extensions.json	DEBUG	Save changes
+1483415951549	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1483415951550	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1483415951551	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.5
+1483415951553	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1483415951553	DeferredSave.extensions.json	DEBUG	Save changes
+1483415951553	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1483415951554	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1483415951555	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.0
+1483415951555	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1483415951555	DeferredSave.extensions.json	DEBUG	Save changes
+1483415951555	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1483415951556	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1483415951558	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 1.0
+1483415951558	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1483415951558	DeferredSave.extensions.json	DEBUG	Save changes
+1483415951558	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1483415951559	DeferredSave.extensions.json	DEBUG	Save changes
+1483415951559	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{10f46fc2-83ce-4e2e-a034-9b1c829f131d}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","installDate":1481290040000,"updateDate":1481290040000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":917398,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1483415951559	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1483415951559	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{42033f5c-02bc-4bbc-8cd6-094b4e30dfeb}","location":"app-system-defaults","version":"1.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","installDate":1481290039000,"updateDate":1481290039000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":7210,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1483415951559	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1483415951560	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{8423dff0-4545-4591-a683-052decd04643}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","installDate":1481290040000,"updateDate":1481290040000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1502,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1483415951560	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1483415951560	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{23925f33-4eb6-4c58-a625-aef7ad1667d9}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","installDate":1481290039000,"updateDate":1481290039000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":5975,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true}
+1483415951560	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1483415951560	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{f35d2620-22f7-413f-8f98-8526ba0f3435}","location":"app-global","version":"50.1.0","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481290039000,"updateDate":1481290039000,"applyBackgroundUpdates":1,"skinnable":true,"size":4932,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.1.0"}],"targetPlatforms":[],"seen":true}
+1483415951560	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1483415951561	DeferredSave.extensions.json	DEBUG	Save changes
+1483415951561	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1483415951561	addons.xpi-utils	DEBUG	Updating add-on states
+1483415951562	addons.xpi-utils	DEBUG	Writing add-ons list
+1483415951563	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1483415951563	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1483415951564	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1483415951564	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.5
+1483415951564	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1483415951565	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1483415951565	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1483415951565	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1483415951567	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1483415951567	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1483415951567	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1483415951567	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1483415951567	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1483415951567	addons.manager	DEBUG	Starting provider: GMPProvider
+1483415951572	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1483415951572	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1483415951572	addons.manager	DEBUG	Starting provider: PluginProvider
+1483415951572	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1483415951573	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1483415951573	addons.manager	DEBUG	Completed startup sequence
+
+(firefox:13637): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483415952408	Marionette	INFO	Listening on port 43240
+1483415954860	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1483415954861	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1483415954861	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1483415954876	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1483415954877	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1483415954877	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1483415954882	DeferredSave.extensions.json	DEBUG	Starting write
+1483415954990	DeferredSave.extensions.json	DEBUG	Write succeeded
+1483415954991	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1483415966098	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1483415966098	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.5
+1483415966098	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.0
+1483415966099	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 1.0
+1483415966374	addons.manager	DEBUG	shutdown
+1483415966374	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1483415966374	addons.xpi	DEBUG	shutdown
+1483415966374	addons.xpi-utils	DEBUG	shutdown
+1483415966375	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1483415966375	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1483415966378	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1483415966378	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1483415966380	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1483415966383	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1483415966388	addons.manager	DEBUG	Async provider shutdown done
+1483416203505	geckodriver	INFO	Listening on 127.0.0.1:33000
+1483416204506	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GgSPa3lIsD6w
+1483416204507	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483416204508	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35361
+1483416204683	addons.manager	DEBUG	Application has been upgraded
+1483416204694	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1483416204696	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1483416204699	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1483416204700	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1483416204700	addons.manager	DEBUG	Starting provider: XPIProvider
+1483416204701	addons.xpi	DEBUG	startup
+1483416204701	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1483416204702	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1483416204702	addons.xpi	INFO	Mapping e10srollout@mozilla.org to /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1483416204702	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1483416204702	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1483416204703	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1483416204703	addons.xpi	DEBUG	checkForChanges
+1483416204703	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1483416204704	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1483416204704	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1483416204705	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1483416204705	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1483416204705	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1483416204705	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1483416204706	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1483416204706	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1483416204706	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1483416204706	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1483416204707	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"firefox@getpocket.com":{"d":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","st":1481290040000},"e10srollout@mozilla.org":{"d":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","st":1481290039000},"webcompat@mozilla.org":{"d":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","st":1481290040000},"aushelper@mozilla.org":{"d":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","st":1481290039000}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1481290039000}}}
+1483416204712	addons.xpi-utils	DEBUG	Opening XPI database /tmp/rust_mozprofile.GgSPa3lIsD6w/extensions.json
+1483416204712	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1483416204719	DeferredSave.extensions.json	DEBUG	Save changes
+1483416204720	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1483416204721	DeferredSave.extensions.json	DEBUG	Starting timer
+1483416204722	DeferredSave.extensions.json	DEBUG	Save changes
+1483416204722	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1483416204725	DeferredSave.extensions.json	DEBUG	Save changes
+1483416204725	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1483416204727	DeferredSave.extensions.json	DEBUG	Save changes
+1483416204728	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1483416204730	DeferredSave.extensions.json	DEBUG	Save changes
+1483416204731	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1483416204735	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1483416204743	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1483416204743	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1483416204743	DeferredSave.extensions.json	DEBUG	Save changes
+1483416204743	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1483416204743	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1483416204745	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.5
+1483416204746	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1483416204746	DeferredSave.extensions.json	DEBUG	Save changes
+1483416204746	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1483416204747	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1483416204748	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.0
+1483416204748	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1483416204748	DeferredSave.extensions.json	DEBUG	Save changes
+1483416204748	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1483416204749	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1483416204751	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 1.0
+1483416204751	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1483416204751	DeferredSave.extensions.json	DEBUG	Save changes
+1483416204751	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1483416204751	DeferredSave.extensions.json	DEBUG	Save changes
+1483416204751	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{76a5133f-eee5-4dbb-b900-18e33bdc9bfa}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","installDate":1481290040000,"updateDate":1481290040000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":917398,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1483416204751	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1483416204752	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{c433a382-0302-4e5f-8ee2-2915713609a3}","location":"app-system-defaults","version":"1.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","installDate":1481290039000,"updateDate":1481290039000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":7210,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1483416204752	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1483416204752	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{264cd44a-19ec-4545-bc54-49ed87ff0e25}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","installDate":1481290040000,"updateDate":1481290040000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1502,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1483416204752	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1483416204752	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{d1b8546a-c1f0-4fb9-abd9-1d13a8dabe38}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","installDate":1481290039000,"updateDate":1481290039000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":5975,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true}
+1483416204752	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1483416204753	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{2b266f56-3559-488d-8977-1877a4805d4b}","location":"app-global","version":"50.1.0","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1481290039000,"updateDate":1481290039000,"applyBackgroundUpdates":1,"skinnable":true,"size":4932,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"50.1.0","maxVersion":"50.1.0"}],"targetPlatforms":[],"seen":true}
+1483416204753	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1483416204753	DeferredSave.extensions.json	DEBUG	Save changes
+1483416204753	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1483416204753	addons.xpi-utils	DEBUG	Updating add-on states
+1483416204754	addons.xpi-utils	DEBUG	Writing add-ons list
+1483416204754	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1483416204755	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1483416204756	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1483416204756	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.5
+1483416204756	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1483416204756	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1483416204756	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1483416204757	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 1.0
+1483416204758	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1483416204758	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1483416204758	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1483416204758	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1483416204758	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1483416204759	addons.manager	DEBUG	Starting provider: GMPProvider
+1483416204763	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1483416204763	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1483416204763	addons.manager	DEBUG	Starting provider: PluginProvider
+1483416204763	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1483416204763	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1483416204763	addons.manager	DEBUG	Completed startup sequence
+
+(firefox:14102): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483416205133	Marionette	INFO	Listening on port 35361
+1483416206107	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1483416206107	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1483416206107	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1483416206126	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1483416206127	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1483416206127	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1483416206132	DeferredSave.extensions.json	DEBUG	Starting write
+1483416206224	DeferredSave.extensions.json	DEBUG	Write succeeded
+1483416206225	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+1483416215748	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1483416215748	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.5
+1483416215748	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.0
+1483416215749	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 1.0
+1483416215899	addons.manager	DEBUG	shutdown
+1483416215900	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1483416215900	addons.xpi	DEBUG	shutdown
+1483416215900	addons.xpi-utils	DEBUG	shutdown
+1483416215900	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1483416215901	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1483416215903	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1483416215903	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1483416215904	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1483416215908	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1483416215911	addons.manager	DEBUG	Async provider shutdown done
+1483416777536	geckodriver	INFO	Listening on 127.0.0.1:54540
+1483416778536	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.t5NfnnlUEeQd
+1483416778536	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483416778538	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44545
+
+(firefox:14803): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483416779189	Marionette	INFO	Listening on port 44545
+1483416803915	geckodriver	INFO	Listening on 127.0.0.1:34287
+1483416804915	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cBtf773bYmPm
+1483416804915	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483416804917	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32824
+
+(firefox:14965): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483416805569	Marionette	INFO	Listening on port 32824
+1483416996269	geckodriver	INFO	Listening on 127.0.0.1:51066
+1483416997269	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rR08TezV3HB3
+1483416997269	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483416997272	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37152
+
+(firefox:15377): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483416997936	Marionette	INFO	Listening on port 37152
+
+(firefox:15377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15377): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1483417126453	geckodriver	INFO	Listening on 127.0.0.1:42059
+1483417127453	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hD7NR90xLxc3
+1483417127453	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483417127454	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39773
+
+(firefox:15642): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483417128161	Marionette	INFO	Listening on port 39773
+
+(firefox:15642): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15642): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15642): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15642): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15642): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15642): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1483417180937	geckodriver	INFO	Listening on 127.0.0.1:47228
+1483417181937	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.85Yd0Uu8twPj
+1483417181938	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483417181939	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34013
+
+(firefox:15814): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483417182578	Marionette	INFO	Listening on port 34013
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f038e42d6a0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0398cce0b0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0398d67d30' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0398e12fb0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0398eb13d0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03968cfd80' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039792d650' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03991676a0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03993fd6f0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039971ab50' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039989f470' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0398dd3790' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039af61ce0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yL/r/a0CWlQBXRtC.js, line 15: unreachable code after return statement
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f03a38810b0' of type 'MaiAtkType13b'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa358880' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa76e7e0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af964e70' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b0052ec0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d76cc90' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af730f60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af78fab0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af798560' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af79b0b0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039af88650' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039919e330' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0399370510' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03996b8470' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0399781a60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03986f8740' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039af15100' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d92e290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d983b50' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d9c8bf0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a524e510' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d5285b0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa70d100' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03ab404240' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03ab517e70' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03ab7a6880' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a5ebf240' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b00955b0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b0454fb0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b0542920' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b472b970' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af78f470' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b04c5920' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b299e1f0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b299eb50' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b29b6970' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b29ba330' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b29466a0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0398eb1470' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03991673d0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0399299600' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03996b83d0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0397cfb420' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039989f9c0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d780970' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d7f88d0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d92e7e0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d9c81a0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d311420' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa2ddce0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa3ded30' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa82aa60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03ab5172e0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a524ef60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03afa87510' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b0291330' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b05220b0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b0542bf0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03ab7a6c40' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b0571970' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a5d5d240' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a5d5dba0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a5d5e9c0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a5da6380' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b29b6dd0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa29bf60' of type 'MaiAtkType13b'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b021c290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b021cbf0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b02235b0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b0223f10' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b02248d0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b023b290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0398e641a0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0399058100' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039919e560' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03993ae880' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0397c77b50' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0399781560' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d638b00' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d650ab0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d76cfb0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d7e2d80' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039b06a830' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a9f3b060' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa2da3d0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa2daec0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa2dde20' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d983d30' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03ab7a6600' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03ab9fc5b0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af79b100' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af79bc40' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa52e790' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af964560' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b290ca60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b2910470' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b299e330' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b299ece0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b0542510' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f038f855a60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f038f86f600' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039989fc40' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0399ca34c0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039af886f0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039b044560' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03992453d0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d4521f0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a5e52ec0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a9e064c0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa18f240' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa2da060' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d7e2060' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa52e420' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa52ef60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa540600' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa82a970' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa2dd1a0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af914560' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af9e02e0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03afa87ba0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b006f060' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03ab5438d0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b0113ba0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b28e3dd0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b290c790' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b2910650' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b299e0b0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b02917e0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b2827ce0' of type 'MaiAtkType13b'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0399ca1f60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0399cf1290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0399cf1290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0399cf1290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0399cf1290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0399cf1290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0399cf1290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0399cf1290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0399cf1290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0399cf1290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0399cf1290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0397c05740' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0397cef6f0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0397cfb380' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03986f8600' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0397397600' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0398e12e70' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03999faa60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0399bfc060' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0399ca1a60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0399ca3dd0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03996606a0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d34d9c0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d4611a0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d59d8d0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d5c2f10' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039aff8510' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a520c8d0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a5e52e20' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03a9e066f0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa18fb50' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039d6fdc40' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03aa2daab0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b006f150' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b01d81f0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b01de1f0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03b01deec0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03af7a2d80' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0390703290' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0392065ce0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03920898d0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0390726970' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03968cfce0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03973f1100' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0392089790' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f0399245830' of type 'MaiAtkType13b'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03952f3f60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f039734ef60' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03920891f0' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f038f86f9c0' of type 'MaiAtkType13b'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f03994f1510' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f03994f1510' of type 'MaiAtkType139'
+
+(firefox:15814): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0399bf8c90' of type 'MaiAtkType139'
+1483681249101	geckodriver	INFO	Listening on 127.0.0.1:37879
+1483681250101	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vJAIkqKKZPl0
+1483681250101	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483681250134	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42408
+
+(firefox:24923): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483681252078	Marionette	INFO	Listening on port 42408
+1483686109339	geckodriver	INFO	Listening on 127.0.0.1:58881
+1483686110338	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.F4HaNrf3w3TO
+1483686110338	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483686110341	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35249
+
+(firefox:29314): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483686111137	Marionette	INFO	Listening on port 35249
+1483686146102	geckodriver	INFO	Listening on 127.0.0.1:45664
+1483686147101	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.F2lirEUKG4vI
+1483686147102	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483686147103	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37420
+
+(firefox:29465): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483686148018	Marionette	INFO	Listening on port 37420
+1483686230942	geckodriver	INFO	Listening on 127.0.0.1:46854
+1483686231941	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vWBzPQTJK4ob
+1483686231941	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483686231942	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40010
+
+(firefox:29638): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483686232577	Marionette	INFO	Listening on port 40010
+1483686354712	geckodriver	INFO	Listening on 127.0.0.1:51575
+1483686355712	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1ALDbZz3sFAC
+1483686355713	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483686355714	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38067
+
+(firefox:29867): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483686356481	Marionette	INFO	Listening on port 38067
+1483686408009	geckodriver	INFO	Listening on 127.0.0.1:43296
+1483686409009	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2Mi17CpQZrZf
+1483686409009	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483686409011	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39246
+
+(firefox:30051): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483686409695	Marionette	INFO	Listening on port 39246
+1483686487014	geckodriver	INFO	Listening on 127.0.0.1:57473
+1483686488014	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fSQvke89SfpL
+1483686488015	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483686488016	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35746
+
+(firefox:30248): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1483686488668	Marionette	INFO	Listening on port 35746

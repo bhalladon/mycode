@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_amsiscan.AmsiScan.test_amsi_unregister_reregister_provider:
+	PASS: symamsi registered passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_unregister_reregister_provider:
+	PASS: symamsi should be unregistered passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_unregister_reregister_provider:
+	PASS: symamsi should be registered passed
+SUMMARY:
+	 Ran 3 tests. 3 passed. 0 failed. 100.00 percent passed. 

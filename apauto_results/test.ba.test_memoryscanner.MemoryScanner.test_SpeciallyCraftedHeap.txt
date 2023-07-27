@@ -1,0 +1,24 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_memoryscanner.MemoryScanner.test_SpeciallyCraftedHeap:
+	FAIL: "D2DStatus: 0x00000000" found in output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_SpeciallyCraftedHeap:
+	FAIL: "Scan Result: 0x1" found in output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_SpeciallyCraftedHeap:
+	PASS: "VirtualLock failed: 0x80000001" found in output evaluated to 1; passed
+test.ba.test_memoryscanner.MemoryScanner.test_SpeciallyCraftedHeap:
+	PASS: "DBG_TRACE_MEMSCAN.+Received memory scan event" evaluated to 1; passed
+test.ba.test_memoryscanner.MemoryScanner.test_SpeciallyCraftedHeap:
+	FAIL: "DBG_TRACE_MEMSCAN.+Memory scan detected infection" evaluated to 0; failed
+SUMMARY:
+	 Ran 5 tests. 2 passed. 3 failed. 40.00 percent passed.
+
+Failed Cases: 
+test.ba.test_memoryscanner.MemoryScanner.test_SpeciallyCraftedHeap:
+	 "D2DStatus: 0x00000000" found in output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_SpeciallyCraftedHeap:
+	 "Scan Result: 0x1" found in output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_SpeciallyCraftedHeap:
+	 "DBG_TRACE_MEMSCAN.+Memory scan detected infection" evaluated to 0; failed 

@@ -1,0 +1,32 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	FAIL: ExtremelyHighBad.dll failed
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	FAIL: ExtremelyHighBad.exe failed
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	FAIL: ExtremelyHighBad.msi failed
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	FAIL: VeryLowGood.exe failed
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	FAIL: VeryLowGood.dll failed
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	FAIL: VeryLowGood.MSI failed
+SUMMARY:
+	 Ran 6 tests. 0 passed. 6 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	 ExtremelyHighBad.dll failed 
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	 ExtremelyHighBad.exe failed 
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	 ExtremelyHighBad.msi failed 
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	 VeryLowGood.exe failed 
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	 VeryLowGood.dll failed 
+test.ba.test_archiveportal.ArchivePortal.test_basic:
+	 VeryLowGood.MSI failed 

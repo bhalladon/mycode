@@ -1,0 +1,2 @@
+http://10.199.97.68/casma/exported_base_img_profile/Rajiv/Win7_base_profile_withoffice2016/bin
+By importing a profile, you confirm that you have purchased the appropriate Microsoft license (and quantity) for the applicable Windows Operating System. Do you agree? [yes,no] 

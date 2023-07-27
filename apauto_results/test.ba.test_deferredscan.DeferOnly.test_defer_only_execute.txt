@@ -1,0 +1,22 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_deferredscan.DeferOnly.test_defer_only_execute:
+	FAIL: Dumbtest detected failed
+test.ba.test_deferredscan.DeferOnly.test_defer_only_execute:
+	FAIL: Flags 1:.+DEFERRED_SCAN_DETECTION failed
+test.ba.test_deferredscan.DeferOnly.test_defer_only_execute:
+	FAIL: Flags 2:.+DEFER_ONLY_ENABLED failed
+test.ba.test_deferredscan.DeferOnly.test_defer_only_execute:
+	PASS: "Deferring scan for .+dumbtest.exe because defer only mode is enabled" evaluated to 1; passed
+SUMMARY:
+	 Ran 4 tests. 1 passed. 3 failed. 25.00 percent passed.
+
+Failed Cases: 
+test.ba.test_deferredscan.DeferOnly.test_defer_only_execute:
+	 Dumbtest detected failed 
+test.ba.test_deferredscan.DeferOnly.test_defer_only_execute:
+	 Flags 1:.+DEFERRED_SCAN_DETECTION failed 
+test.ba.test_deferredscan.DeferOnly.test_defer_only_execute:
+	 Flags 2:.+DEFER_ONLY_ENABLED failed 

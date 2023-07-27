@@ -1,0 +1,16 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_bashevent.BBEvent.test_ransomware_supersede:
+	PASS: Ransomware passed
+test.ba.test_bashevent.BBEvent.test_ransomware_supersede:
+	PASS: "\[APDD\] GetAction returned: 0" evaluated to 1; passed
+test.ba.test_bashevent.BBEvent.test_ransomware_supersede:
+	PASS: "\[APDD\] GetFileObject returned: \w+" evaluated to 1; passed
+test.ba.test_bashevent.BBEvent.test_ransomware_supersede:
+	PASS: "\[APDD\] GetFilePath returned: [\w\\]+" evaluated to 1; passed
+test.ba.test_bashevent.BBEvent.test_ransomware_supersede:
+	PASS: "\[APDD\] GetFileContentTypes returned: .+" evaluated to 1; passed
+SUMMARY:
+	 Ran 5 tests. 5 passed. 0 failed. 100.00 percent passed. 

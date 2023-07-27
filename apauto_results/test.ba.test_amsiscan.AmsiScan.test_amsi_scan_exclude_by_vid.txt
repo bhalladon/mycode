@@ -1,0 +1,22 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exclude_by_vid:
+	PASS: Expect allowed passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exclude_by_vid:
+	PASS: Got event! Viral passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exclude_by_vid:
+	PASS: Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exclude_by_vid:
+	PASS: Action 0: DenyAccess passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exclude_by_vid:
+	PASS: Action 0 Flags: Succeeded passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exclude_by_vid:
+	PASS: Threat 0 Name: Trojan.EV1 passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exclude_by_vid:
+	PASS: Threat 0 VID: 0xddf0 passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exclude_by_vid:
+	PASS: Threat Count: 1 passed
+SUMMARY:
+	 Ran 8 tests. 8 passed. 0 failed. 100.00 percent passed. 

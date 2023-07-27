@@ -1,0 +1,24 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_bashevent.BBEvent.test_ransomware_mbr_write:
+	FAIL: Ransomware failed
+test.ba.test_bashevent.BBEvent.test_ransomware_mbr_write:
+	FAIL: "\[APDD\] GetAction returned: 3" evaluated to 0; failed
+test.ba.test_bashevent.BBEvent.test_ransomware_mbr_write:
+	FAIL: "\[APDD\] GetFileObject returned: \w+" evaluated to 0; failed
+test.ba.test_bashevent.BBEvent.test_ransomware_mbr_write:
+	FAIL: "\[APDD\] GetVolumeName returned: [\w\\]+" evaluated to 0; failed
+SUMMARY:
+	 Ran 4 tests. 0 passed. 4 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_bashevent.BBEvent.test_ransomware_mbr_write:
+	 Ransomware failed 
+test.ba.test_bashevent.BBEvent.test_ransomware_mbr_write:
+	 "\[APDD\] GetAction returned: 3" evaluated to 0; failed 
+test.ba.test_bashevent.BBEvent.test_ransomware_mbr_write:
+	 "\[APDD\] GetFileObject returned: \w+" evaluated to 0; failed 
+test.ba.test_bashevent.BBEvent.test_ransomware_mbr_write:
+	 "\[APDD\] GetVolumeName returned: [\w\\]+" evaluated to 0; failed 

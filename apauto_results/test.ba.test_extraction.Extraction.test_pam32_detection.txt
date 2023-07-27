@@ -1,0 +1,24 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_extraction.Extraction.test_pam32_detection:
+	FAIL: W32. failed
+test.ba.test_extraction.Extraction.test_pam32_detection:
+	FAIL: Repair action failed
+test.ba.test_extraction.Extraction.test_pam32_detection:
+	FAIL: Repair action flags failed
+test.ba.test_extraction.Extraction.test_pam32_detection:
+	FAIL: Repair result failed
+SUMMARY:
+	 Ran 4 tests. 0 passed. 4 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_extraction.Extraction.test_pam32_detection:
+	 W32. failed 
+test.ba.test_extraction.Extraction.test_pam32_detection:
+	 Repair action failed 
+test.ba.test_extraction.Extraction.test_pam32_detection:
+	 Repair action flags failed 
+test.ba.test_extraction.Extraction.test_pam32_detection:
+	 Repair result failed 

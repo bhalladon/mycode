@@ -1,0 +1,24 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_tcp.TCP.test_tcp_firstaction_continue_detection:
+	FAIL: TCP Continue Detection failed
+test.ba.test_tcp.TCP.test_tcp_firstaction_continue_detection:
+	FAIL: CONTINUE_ACTION_PATTERN failed
+test.ba.test_tcp.TCP.test_tcp_firstaction_continue_detection:
+	FAIL: TCP Basic for Continue failed
+test.ba.test_tcp.TCP.test_tcp_firstaction_continue_detection:
+	FAIL: TCP Post-Continue Detection failed
+SUMMARY:
+	 Ran 4 tests. 0 passed. 4 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_tcp.TCP.test_tcp_firstaction_continue_detection:
+	 TCP Continue Detection failed 
+test.ba.test_tcp.TCP.test_tcp_firstaction_continue_detection:
+	 CONTINUE_ACTION_PATTERN failed 
+test.ba.test_tcp.TCP.test_tcp_firstaction_continue_detection:
+	 TCP Basic for Continue failed 
+test.ba.test_tcp.TCP.test_tcp_firstaction_continue_detection:
+	 TCP Post-Continue Detection failed 

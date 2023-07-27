@@ -1,0 +1,36 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_extraction.Extraction.test_basic_detection:
+	FAIL: Necropolis.A/B failed
+test.ba.test_extraction.Extraction.test_basic_detection:
+	FAIL: WM.Bandung.A failed
+test.ba.test_extraction.Extraction.test_basic_detection:
+	FAIL: Dir II.A failed
+test.ba.test_extraction.Extraction.test_basic_detection:
+	FAIL: EICAR Test String failed
+test.ba.test_extraction.Extraction.test_basic_detection:
+	FAIL: Jeru.1808.Frere Jac failed
+test.ba.test_extraction.Extraction.test_basic_detection:
+	FAIL: XM.Laroux.CV failed
+test.ba.test_extraction.Extraction.test_basic_detection:
+	FAIL: W97M.VMPCK1.BD failed
+SUMMARY:
+	 Ran 7 tests. 0 passed. 7 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_extraction.Extraction.test_basic_detection:
+	 Necropolis.A/B failed 
+test.ba.test_extraction.Extraction.test_basic_detection:
+	 WM.Bandung.A failed 
+test.ba.test_extraction.Extraction.test_basic_detection:
+	 Dir II.A failed 
+test.ba.test_extraction.Extraction.test_basic_detection:
+	 EICAR Test String failed 
+test.ba.test_extraction.Extraction.test_basic_detection:
+	 Jeru.1808.Frere Jac failed 
+test.ba.test_extraction.Extraction.test_basic_detection:
+	 XM.Laroux.CV failed 
+test.ba.test_extraction.Extraction.test_basic_detection:
+	 W97M.VMPCK1.BD failed 

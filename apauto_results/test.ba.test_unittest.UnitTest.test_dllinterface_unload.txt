@@ -1,0 +1,14 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_unittest.UnitTest.test_dllinterface_unload:
+	PASS: test_dllinterface_unload passed
+test.ba.test_unittest.UnitTest.test_dllinterface_unload:
+	FAIL: srtspscan dll unmapped failed
+SUMMARY:
+	 Ran 2 tests. 1 passed. 1 failed. 50.00 percent passed.
+
+Failed Cases: 
+test.ba.test_unittest.UnitTest.test_dllinterface_unload:
+	 srtspscan dll unmapped failed 

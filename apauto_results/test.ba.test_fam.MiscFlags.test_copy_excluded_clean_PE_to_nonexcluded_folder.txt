@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_fam.MiscFlags.test_copy_excluded_clean_PE_to_nonexcluded_folder:
+	PASS: FAM determined FS_CLEAN passed
+test.ba.test_fam.MiscFlags.test_copy_excluded_clean_PE_to_nonexcluded_folder:
+	PASS: FAM determined FS_WITNESSED_INITIAL_CREATE passed
+test.ba.test_fam.MiscFlags.test_copy_excluded_clean_PE_to_nonexcluded_folder:
+	PASS: FAM determined FS_FILE_HAS_BEEN_SCANNED passed
+SUMMARY:
+	 Ran 3 tests. 3 passed. 0 failed. 100.00 percent passed. 

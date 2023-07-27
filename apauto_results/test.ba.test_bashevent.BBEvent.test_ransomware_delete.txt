@@ -1,0 +1,28 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_bashevent.BBEvent.test_ransomware_delete:
+	FAIL: Ransomware failed
+test.ba.test_bashevent.BBEvent.test_ransomware_delete:
+	FAIL: "\[APDD\] GetAction returned: 0" evaluated to 0; failed
+test.ba.test_bashevent.BBEvent.test_ransomware_delete:
+	FAIL: "\[APDD\] GetFileObject returned: \w+" evaluated to 0; failed
+test.ba.test_bashevent.BBEvent.test_ransomware_delete:
+	FAIL: "\[APDD\] GetFilePath returned: [\w\\]+" evaluated to 0; failed
+test.ba.test_bashevent.BBEvent.test_ransomware_delete:
+	FAIL: "\[APDD\] GetFileContentTypes returned: .+" evaluated to 0; failed
+SUMMARY:
+	 Ran 5 tests. 0 passed. 5 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_bashevent.BBEvent.test_ransomware_delete:
+	 Ransomware failed 
+test.ba.test_bashevent.BBEvent.test_ransomware_delete:
+	 "\[APDD\] GetAction returned: 0" evaluated to 0; failed 
+test.ba.test_bashevent.BBEvent.test_ransomware_delete:
+	 "\[APDD\] GetFileObject returned: \w+" evaluated to 0; failed 
+test.ba.test_bashevent.BBEvent.test_ransomware_delete:
+	 "\[APDD\] GetFilePath returned: [\w\\]+" evaluated to 0; failed 
+test.ba.test_bashevent.BBEvent.test_ransomware_delete:
+	 "\[APDD\] GetFileContentTypes returned: .+" evaluated to 0; failed 

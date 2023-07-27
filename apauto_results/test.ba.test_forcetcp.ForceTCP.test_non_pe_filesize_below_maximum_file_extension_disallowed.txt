@@ -1,0 +1,20 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_disallowed:
+	FAIL: Total TCP Scan: 0 failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_disallowed:
+	FAIL: Success: Scan Complete using ccScanw failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_disallowed:
+	FAIL: ": Not forcing TCP for non-PE file .+small.avi" evaluated to 0; failed
+SUMMARY:
+	 Ran 3 tests. 0 passed. 3 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_disallowed:
+	 Total TCP Scan: 0 failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_disallowed:
+	 Success: Scan Complete using ccScanw failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_disallowed:
+	 ": Not forcing TCP for non-PE file .+small.avi" evaluated to 0; failed 

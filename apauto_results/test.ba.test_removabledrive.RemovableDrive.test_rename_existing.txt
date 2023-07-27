@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_removabledrive.RemovableDrive.test_rename_existing:
+	PASS: "\[DBG_TRACE_PRERENAME\]: File being renamed from .+hello.txt to .+goodbye.txt. SC: .+" evaluated to 1; passed
+test.ba.test_removabledrive.RemovableDrive.test_rename_existing:
+	PASS: "\[DBG_TRACE_PRERENAME\]: File .+hello.txt being renamed to .+goodbye.txt with ReplaceIfExists. SC: .+ File ID changing from .+ to .+" evaluated to 1; passed
+test.ba.test_removabledrive.RemovableDrive.test_rename_existing:
+	PASS: "\[DBG_TRACE_POSTRENAME | DBG_TRACE_FAM\]: FAT File ID for .+hello.txt changed from .+ to .+. Moving file attributes" evaluated to 1; passed
+SUMMARY:
+	 Ran 3 tests. 3 passed. 0 failed. 100.00 percent passed. 

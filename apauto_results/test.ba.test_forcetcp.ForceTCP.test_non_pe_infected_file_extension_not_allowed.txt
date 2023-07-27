@@ -1,0 +1,20 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_forcetcp.ForceTCP.test_non_pe_infected_file_extension_not_allowed:
+	FAIL: Total TCP Scan: 0 failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_infected_file_extension_not_allowed:
+	FAIL: Success: Scan Complete using ccScanw failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_infected_file_extension_not_allowed:
+	FAIL: ": Forcing TCP for non-PE file .+eicar.com" evaluated to 0; failed
+SUMMARY:
+	 Ran 3 tests. 0 passed. 3 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_infected_file_extension_not_allowed:
+	 Total TCP Scan: 0 failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_infected_file_extension_not_allowed:
+	 Success: Scan Complete using ccScanw failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_infected_file_extension_not_allowed:
+	 ": Forcing TCP for non-PE file .+eicar.com" evaluated to 0; failed 

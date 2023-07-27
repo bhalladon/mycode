@@ -1,0 +1,18 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_ukcommtrust.UKCommTrust.test_ukcomm_trust:
+	PASS: \\.\SrtProxy passed
+test.ba.test_ukcommtrust.UKCommTrust.test_ukcomm_trust:
+	PASS: \\.\srtsp\SRT\ControlChannel passed
+test.ba.test_ukcommtrust.UKCommTrust.test_ukcomm_trust:
+	PASS: \\.\srtsp\SRT\AsyncKernelToUser passed
+test.ba.test_ukcommtrust.UKCommTrust.test_ukcomm_trust:
+	PASS: \\.\SRTSPX\SRTPEL\ControlChannel passed
+test.ba.test_ukcommtrust.UKCommTrust.test_ukcomm_trust:
+	PASS: "Denying access to untrusted caller for \\FileSystem\\SRTSP" evaluated to 1; passed
+test.ba.test_ukcommtrust.UKCommTrust.test_ukcomm_trust:
+	PASS: "Denying access to untrusted caller for \\Driver\\SRTSPX" evaluated to 0; passed
+SUMMARY:
+	 Ran 6 tests. 6 passed. 0 failed. 100.00 percent passed. 

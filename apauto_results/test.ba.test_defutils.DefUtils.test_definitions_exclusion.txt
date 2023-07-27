@@ -1,0 +1,14 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_defutils.DefUtils.test_definitions_exclusion:
+	PASS: destination file exists passed
+test.ba.test_defutils.DefUtils.test_definitions_exclusion:
+	PASS: "CAPPaths::IsDefsDirectoryFile.+=0x00000001\(true\)" evaluated to 1; passed
+test.ba.test_defutils.DefUtils.test_definitions_exclusion:
+	PASS: "CStreamContext::DefinitionAndPagingFileCheck.+Marking AVE defs file ineligible for FAM rescans and deferred scans.+python\.exe" evaluated to 1; passed
+test.ba.test_defutils.DefUtils.test_definitions_exclusion:
+	PASS: "CFastSkipManager::PreProcessStreamLockFree.+Skipping scan for definitions or paging file.+python\.exe" evaluated to 1; passed
+SUMMARY:
+	 Ran 4 tests. 4 passed. 0 failed. 100.00 percent passed. 

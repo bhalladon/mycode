@@ -1,0 +1,8 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_safeexclude.SafeExclude.test_symerr:
+	PASS: "Skipping scan for Symantec process .+symerr\.exe on file" evaluated to 1; passed
+SUMMARY:
+	 Ran 1 tests. 1 passed. 0 failed. 100.00 percent passed. 

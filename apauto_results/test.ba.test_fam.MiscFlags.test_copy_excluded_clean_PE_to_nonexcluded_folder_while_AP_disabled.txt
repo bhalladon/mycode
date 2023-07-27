@@ -1,0 +1,8 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_fam.MiscFlags.test_copy_excluded_clean_PE_to_nonexcluded_folder_while_AP_disabled:
+	PASS: FAM determined FS_WITNESSED_INITIAL_CREATE_WHILE_DISABLED passed
+SUMMARY:
+	 Ran 1 tests. 1 passed. 0 failed. 100.00 percent passed. 

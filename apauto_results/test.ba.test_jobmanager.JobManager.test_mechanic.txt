@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_jobmanager.JobManager.test_mechanic:
+	PASS: "Starting mechanic job" evaluated to 1; passed
+test.ba.test_jobmanager.JobManager.test_mechanic:
+	PASS: "\[DBG_TRACE_SERVICEPLUGIN\]: RepairScanner" evaluated to 1; passed
+test.ba.test_jobmanager.JobManager.test_mechanic:
+	PASS: "Current thread count \d+; expected thread count \d+" evaluated to 1; passed
+SUMMARY:
+	 Ran 3 tests. 3 passed. 0 failed. 100.00 percent passed. 

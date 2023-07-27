@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_networktrust.Mock.test_server:
+	PASS: GetLastError passed
+test.ba.test_networktrust.Mock.test_server:
+	PASS: "DBG_TRACE_TRUSTSERVER" evaluated to 1; passed
+test.ba.test_networktrust.Mock.test_server:
+	PASS: "CheckForNetworkTrustQuery\(\) Returning STATUS_AP_TRUST_OK" evaluated to 1; passed
+SUMMARY:
+	 Ran 3 tests. 3 passed. 0 failed. 100.00 percent passed. 

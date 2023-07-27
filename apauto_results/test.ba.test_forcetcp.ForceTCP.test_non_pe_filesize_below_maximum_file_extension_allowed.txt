@@ -1,0 +1,32 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	FAIL: Total TCP Scan: 1 failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	FAIL: Success: Scan Complete using ccScanw failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	FAIL: Total TCP Scan: 1 failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	FAIL: Success: Scan Complete using ccScanw failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	FAIL: ": Forcing TCP for non-PE file .+small.js" evaluated to 0; failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	FAIL: ": Forcing TCP for non-PE file .+ant-antlr.jar" evaluated to 0; failed
+SUMMARY:
+	 Ran 6 tests. 0 passed. 6 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	 Total TCP Scan: 1 failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	 Success: Scan Complete using ccScanw failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	 Total TCP Scan: 1 failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	 Success: Scan Complete using ccScanw failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	 ": Forcing TCP for non-PE file .+small.js" evaluated to 0; failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_below_maximum_file_extension_allowed:
+	 ": Forcing TCP for non-PE file .+ant-antlr.jar" evaluated to 0; failed 

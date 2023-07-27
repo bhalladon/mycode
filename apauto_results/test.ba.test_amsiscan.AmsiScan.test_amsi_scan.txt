@@ -1,0 +1,44 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	FAIL: Expect access denied failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	FAIL: Got event! Viral failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	FAIL: Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	FAIL: Action 0: DenyAccess failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	FAIL: Action 0 Flags: Succeeded failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	FAIL: Threat 0 Name: Trojan.EV1 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	FAIL: Threat 0 VID: 0xddf0 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	FAIL: Threat Count: 1 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	FAIL: File in trouble: PowerShell_ failed
+SUMMARY:
+	 Ran 9 tests. 0 passed. 9 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	 Expect access denied failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	 Got event! Viral failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	 Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	 Action 0: DenyAccess failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	 Action 0 Flags: Succeeded failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	 Threat 0 Name: Trojan.EV1 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	 Threat 0 VID: 0xddf0 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	 Threat Count: 1 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan:
+	 File in trouble: PowerShell_ failed 

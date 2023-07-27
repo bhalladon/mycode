@@ -1,0 +1,14 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_exclusions.Exclusions.test_process:
+	PASS: GetCount passed
+test.ba.test_exclusions.Exclusions.test_process:
+	PASS: calc.exe passed
+test.ba.test_exclusions.Exclusions.test_process:
+	PASS: notepad.exe passed
+test.ba.test_exclusions.Exclusions.test_process:
+	PASS: word.exe passed
+SUMMARY:
+	 Ran 4 tests. 4 passed. 0 failed. 100.00 percent passed. 

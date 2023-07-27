@@ -1,0 +1,8 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_url.URL.test_url2:
+	PASS: "Updated URL info from http://cps.qalabs.symantec.com/teams/Product%20Engineering/Samples_2012/EXE/MrHealthy_Stable_.+ to http://cps.qalabs.symantec.com/teams/Product%20Engineering/Samples_2012/EXE/MrHealthy_Stable_.+ for hash 0[xX][0-9a-fA-F]+" evaluated to 1; passed
+SUMMARY:
+	 Ran 1 tests. 1 passed. 0 failed. 100.00 percent passed. 

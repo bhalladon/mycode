@@ -1,0 +1,16 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_nonvirals.NonVirals.test_nonviral:
+	FAIL: pvidblah output failed
+test.ba.test_nonvirals.NonVirals.test_nonviral:
+	FAIL: Nonviral event failed
+SUMMARY:
+	 Ran 2 tests. 0 passed. 2 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_nonvirals.NonVirals.test_nonviral:
+	 pvidblah output failed 
+test.ba.test_nonvirals.NonVirals.test_nonviral:
+	 Nonviral event failed 

@@ -1,0 +1,10 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_safeexclude.SafeExclude.test_searchindexer:
+	PASS: "Validating process .+\\SearchIndexer.exe" evaluated to 1; passed
+test.ba.test_safeexclude.SafeExclude.test_searchindexer:
+	PASS: "Process .+SearchIndexer\.exe is EXCLUDED by Safe Exclusions" evaluated to 1; passed
+SUMMARY:
+	 Ran 2 tests. 2 passed. 0 failed. 100.00 percent passed. 

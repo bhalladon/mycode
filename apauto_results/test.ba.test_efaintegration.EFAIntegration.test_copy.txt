@@ -1,0 +1,20 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_efaintegration.EFAIntegration.test_copy:
+	PASS: GVM passed
+test.ba.test_efaintegration.EFAIntegration.test_copy:
+	PASS: FINFO passed
+test.ba.test_efaintegration.EFAIntegration.test_copy:
+	FAIL: FTYPE failed
+test.ba.test_efaintegration.EFAIntegration.test_copy:
+	FAIL: MrCleanAVE failed
+SUMMARY:
+	 Ran 4 tests. 2 passed. 2 failed. 50.00 percent passed.
+
+Failed Cases: 
+test.ba.test_efaintegration.EFAIntegration.test_copy:
+	 FTYPE failed 
+test.ba.test_efaintegration.EFAIntegration.test_copy:
+	 MrCleanAVE failed 

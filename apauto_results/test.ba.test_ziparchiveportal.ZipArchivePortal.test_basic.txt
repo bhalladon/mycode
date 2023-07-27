@@ -1,0 +1,24 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_ziparchiveportal.ZipArchivePortal.test_basic:
+	FAIL: eicar.com failed
+test.ba.test_ziparchiveportal.ZipArchivePortal.test_basic:
+	FAIL: ExtremelyHighBad.exe failed
+test.ba.test_ziparchiveportal.ZipArchivePortal.test_basic:
+	FAIL: ExtremelyHighBad.msi failed
+test.ba.test_ziparchiveportal.ZipArchivePortal.test_basic:
+	FAIL: ExtremelyHighGood.exe failed
+SUMMARY:
+	 Ran 4 tests. 0 passed. 4 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_ziparchiveportal.ZipArchivePortal.test_basic:
+	 eicar.com failed 
+test.ba.test_ziparchiveportal.ZipArchivePortal.test_basic:
+	 ExtremelyHighBad.exe failed 
+test.ba.test_ziparchiveportal.ZipArchivePortal.test_basic:
+	 ExtremelyHighBad.msi failed 
+test.ba.test_ziparchiveportal.ZipArchivePortal.test_basic:
+	 ExtremelyHighGood.exe failed 

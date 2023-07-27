@@ -1,0 +1,14 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_longpath.LongPath.test_4177356:
+	FAIL: Eicar detection failed
+test.ba.test_longpath.LongPath.test_4177356:
+	PASS: Eicar test file contains payload passed
+SUMMARY:
+	 Ran 2 tests. 1 passed. 1 failed. 50.00 percent passed.
+
+Failed Cases: 
+test.ba.test_longpath.LongPath.test_4177356:
+	 Eicar detection failed 

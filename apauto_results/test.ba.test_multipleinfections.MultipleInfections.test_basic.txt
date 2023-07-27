@@ -1,0 +1,16 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_multipleinfections.MultipleInfections.test_basic:
+	FAIL: Got event! Viral.+9_MetroMultipleThreats_x64\.exe failed
+test.ba.test_multipleinfections.MultipleInfections.test_basic:
+	FAIL: Got event! Nonviral.+9_MetroMultipleThreats_x64\.exe failed
+SUMMARY:
+	 Ran 2 tests. 0 passed. 2 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_multipleinfections.MultipleInfections.test_basic:
+	 Got event! Viral.+9_MetroMultipleThreats_x64\.exe failed 
+test.ba.test_multipleinfections.MultipleInfections.test_basic:
+	 Got event! Nonviral.+9_MetroMultipleThreats_x64\.exe failed 

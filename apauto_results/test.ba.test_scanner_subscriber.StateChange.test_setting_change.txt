@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_scanner_subscriber.StateChange.test_setting_change:
+	PASS: "CServicePlugin sendSettingsChangeEvent" evaluated to 1; passed
+test.ba.test_scanner_subscriber.StateChange.test_setting_change:
+	PASS: "Initializing scan context" evaluated to 1; passed
+test.ba.test_scanner_subscriber.StateChange.test_setting_change:
+	PASS: "Scan init status: 0x00000000" evaluated to 1; passed
+SUMMARY:
+	 Ran 3 tests. 3 passed. 0 failed. 100.00 percent passed. 

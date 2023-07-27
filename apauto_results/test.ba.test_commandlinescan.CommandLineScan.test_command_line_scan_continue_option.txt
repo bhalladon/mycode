@@ -1,0 +1,58 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	PASS: Expect access denied passed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: Got event! Viral failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: Action 0: Continue failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: Action 0 Flags: Succeeded failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: Threat 0 Name: Trojan.EV1 failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: Threat 0 VID: 0xddf0 failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: Threat Count: 1 failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: "\[APDD\] - AP_POST_CONTEXTUAL_SCAN" evaluated to 0; failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: "\[APDD\] - - - VirName: Trojan.EV1 \(0xddf0\)" evaluated to 0; failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: "\[APDD\] - Action Count: 1" evaluated to 0; failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: "\[APDD\] - - - Action\(0\) SUCCEED: 0x2" evaluated to 0; failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	FAIL: "\[APDD\] - - - GetFlags1: 0x400" evaluated to 0; failed
+SUMMARY:
+	 Ran 13 tests. 1 passed. 12 failed. 7.69 percent passed.
+
+Failed Cases: 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 Got event! Viral failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 Action 0: Continue failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 Action 0 Flags: Succeeded failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 Threat 0 Name: Trojan.EV1 failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 Threat 0 VID: 0xddf0 failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 Threat Count: 1 failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 "\[APDD\] - AP_POST_CONTEXTUAL_SCAN" evaluated to 0; failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 "\[APDD\] - - - VirName: Trojan.EV1 \(0xddf0\)" evaluated to 0; failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 "\[APDD\] - Action Count: 1" evaluated to 0; failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 "\[APDD\] - - - Action\(0\) SUCCEED: 0x2" evaluated to 0; failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_continue_option:
+	 "\[APDD\] - - - GetFlags1: 0x400" evaluated to 0; failed 

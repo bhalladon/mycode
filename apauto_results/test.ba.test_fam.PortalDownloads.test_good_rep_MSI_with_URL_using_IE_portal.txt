@@ -1,0 +1,20 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_fam.PortalDownloads.test_good_rep_MSI_with_URL_using_IE_portal:
+	PASS: FAM determined FS_PORTAL_CREATED passed
+test.ba.test_fam.PortalDownloads.test_good_rep_MSI_with_URL_using_IE_portal:
+	PASS: FAM determined FS_PORTAL_NOTIFY passed
+test.ba.test_fam.PortalDownloads.test_good_rep_MSI_with_URL_using_IE_portal:
+	PASS: FAM determined FS_URL_PRESENT passed
+test.ba.test_fam.PortalDownloads.test_good_rep_MSI_with_URL_using_IE_portal:
+	PASS: FAM determined FS_FILE_TYPE_MSI_INSTALLER passed
+test.ba.test_fam.PortalDownloads.test_good_rep_MSI_with_URL_using_IE_portal:
+	PASS: FAM determined FS_CLEAN passed
+test.ba.test_fam.PortalDownloads.test_good_rep_MSI_with_URL_using_IE_portal:
+	PASS: FAM determined FS_REP_SCANNED passed
+test.ba.test_fam.PortalDownloads.test_good_rep_MSI_with_URL_using_IE_portal:
+	PASS: "\[DBG_TRACE_EFA \| DBG_TRACE_URL\]: Writing portal ID 1, IsProxied byte 0, to PINFO for.+HighGoodmsi.MSI" evaluated to 1; passed
+SUMMARY:
+	 Ran 7 tests. 7 passed. 0 failed. 100.00 percent passed. 

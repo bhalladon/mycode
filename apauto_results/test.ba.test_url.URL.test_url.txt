@@ -1,0 +1,24 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_url.URL.test_url:
+	FAIL: URL:ExtremelyHighGood.dll failed
+test.ba.test_url.URL.test_url:
+	FAIL: IPAddr:ExtremelyHighGood.dll failed
+test.ba.test_url.URL.test_url:
+	PASS: URL:ExtremelyHighGood.exe passed
+test.ba.test_url.URL.test_url:
+	PASS: IPAddr:ExtremelyHighGood.exe passed
+test.ba.test_url.URL.test_url:
+	PASS: URL:ExtremelyHighGood.MSI passed
+test.ba.test_url.URL.test_url:
+	PASS: IPAddr:ExtremelyHighGood.MSI passed
+SUMMARY:
+	 Ran 6 tests. 4 passed. 2 failed. 66.67 percent passed.
+
+Failed Cases: 
+test.ba.test_url.URL.test_url:
+	 URL:ExtremelyHighGood.dll failed 
+test.ba.test_url.URL.test_url:
+	 IPAddr:ExtremelyHighGood.dll failed 

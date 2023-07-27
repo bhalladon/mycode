@@ -1,0 +1,58 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "D2DStatus: 0x00000000" found in output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "Scan Result: 0x1" found in output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "Got event! Viral" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "Flags 1: .+MEMORY_SCAN_DETECTION" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "File Hash: \w+" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "Threat 0 AVPing Data: \w+" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "47920d4b5248b543862799a3fd1f5e3e" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "424153482050524956415445204259544553" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "adbd03" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "Threat 0 Name: SONAR.Ping!gm" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "Threat 0 VID: 0xffff5fff" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	PASS: "DBG_TRACE_MEMSCAN.+Received memory scan event" evaluated to 1; passed
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	FAIL: "DBG_TRACE_MEMSCAN.+Memory scan detected infection" evaluated to 0; failed
+SUMMARY:
+	 Ran 13 tests. 1 passed. 12 failed. 7.69 percent passed.
+
+Failed Cases: 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "D2DStatus: 0x00000000" found in output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "Scan Result: 0x1" found in output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "Got event! Viral" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "Flags 1: .+MEMORY_SCAN_DETECTION" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "File Hash: \w+" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "Threat 0 AVPing Data: \w+" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "47920d4b5248b543862799a3fd1f5e3e" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "424153482050524956415445204259544553" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "adbd03" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "Threat 0 Name: SONAR.Ping!gm" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "Threat 0 VID: 0xffff5fff" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ScanInfectedStack:
+	 "DBG_TRACE_MEMSCAN.+Memory scan detected infection" evaluated to 0; failed 

@@ -1,0 +1,16 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_portalparents.PortalParents.test_d2d_interface:
+	FAIL: "Parent count: 3" evaluated to 0; failed
+test.ba.test_portalparents.PortalParents.test_d2d_interface:
+	FAIL: "Parent\[\d\] id: \d+ type: 1 guid: [0-9a-fA-F-]+ id_128: [0-9a-fA-F-]+" evaluated to 0; failed
+SUMMARY:
+	 Ran 2 tests. 0 passed. 2 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_portalparents.PortalParents.test_d2d_interface:
+	 "Parent count: 3" evaluated to 0; failed 
+test.ba.test_portalparents.PortalParents.test_d2d_interface:
+	 "Parent\[\d\] id: \d+ type: 1 guid: [0-9a-fA-F-]+ id_128: [0-9a-fA-F-]+" evaluated to 0; failed 

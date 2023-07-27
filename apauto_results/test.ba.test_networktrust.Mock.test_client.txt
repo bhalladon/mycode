@@ -1,0 +1,14 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_networktrust.Mock.test_client:
+	PASS: "DBG_TRACE_TRUSTCLIENT" evaluated to 1; passed
+test.ba.test_networktrust.Mock.test_client:
+	PASS: "Trust query returned 0xc0000365\(STATUS_FAILED_DRIVER_ENTRY\)" evaluated to 1; passed
+test.ba.test_networktrust.Mock.test_client:
+	PASS: "GenerateNetworkTrustQuery\(\) Trusting file .+python\.exe" evaluated to 1; passed
+test.ba.test_networktrust.Mock.test_client:
+	PASS: "Skipping I/O for .+\python\.exe" evaluated to 1; passed
+SUMMARY:
+	 Ran 4 tests. 4 passed. 0 failed. 100.00 percent passed. 

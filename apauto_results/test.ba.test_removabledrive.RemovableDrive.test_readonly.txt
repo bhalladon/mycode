@@ -1,0 +1,10 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_removabledrive.RemovableDrive.test_readonly:
+	PASS: "\[DBG_TRACE_INSTANCE_CONTEXT\]: [\\\w]+ is writable, 0x00000000\(false\)" evaluated to 1; passed
+test.ba.test_removabledrive.RemovableDrive.test_readonly:
+	PASS: "\[DBG_TRACE_FAM_LOAD\] : Instance \w+ is not persistent - [\\\w]+" evaluated to 1; passed
+SUMMARY:
+	 Ran 2 tests. 2 passed. 0 failed. 100.00 percent passed. 

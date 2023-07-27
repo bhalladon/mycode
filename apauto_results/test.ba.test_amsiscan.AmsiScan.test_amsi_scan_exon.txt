@@ -1,0 +1,42 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	PASS: Expect allowed passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	FAIL: Got event! Viral failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	FAIL: Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	FAIL: Action 0: Continue failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	FAIL: Action 0 Flags: Succeeded failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	FAIL: Threat 0 Name: Trojan.EV1!g1 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	FAIL: Threat 0 VID: 0xddf1 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	FAIL: Threat Count: 1 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	FAIL: Threat 0 Exoneration::Exonerated: true failed
+SUMMARY:
+	 Ran 9 tests. 1 passed. 8 failed. 11.11 percent passed.
+
+Failed Cases: 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	 Got event! Viral failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	 Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	 Action 0: Continue failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	 Action 0 Flags: Succeeded failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	 Threat 0 Name: Trojan.EV1!g1 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	 Threat 0 VID: 0xddf1 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	 Threat Count: 1 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_exon:
+	 Threat 0 Exoneration::Exonerated: true failed 

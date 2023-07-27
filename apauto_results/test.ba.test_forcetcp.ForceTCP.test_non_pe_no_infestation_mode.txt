@@ -1,0 +1,20 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_forcetcp.ForceTCP.test_non_pe_no_infestation_mode:
+	FAIL: Total TCP Scan: 0 failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_no_infestation_mode:
+	FAIL: Success: Scan Complete using ccScanw failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_no_infestation_mode:
+	FAIL: ".+small.avi is not typed as a PE not attempting cloud" evaluated to 0; failed
+SUMMARY:
+	 Ran 3 tests. 0 passed. 3 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_no_infestation_mode:
+	 Total TCP Scan: 0 failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_no_infestation_mode:
+	 Success: Scan Complete using ccScanw failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_no_infestation_mode:
+	 ".+small.avi is not typed as a PE not attempting cloud" evaluated to 0; failed 

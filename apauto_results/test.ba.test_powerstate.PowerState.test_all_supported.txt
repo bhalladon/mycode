@@ -1,0 +1,14 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_powerstate.PowerState.test_all_supported:
+	PASS: "\[DBG_TRACE_POWER_STATE\]: System power state: 0x00000000\(false\)" evaluated to 1; passed
+test.ba.test_powerstate.PowerState.test_all_supported:
+	PASS: "\[DBG_TRACE_POWER_STATE\]: Pause the deferred scanner" evaluated to 1; passed
+test.ba.test_powerstate.PowerState.test_all_supported:
+	PASS: "\[DBG_TRACE_POWER_STATE\]: System power state: 0x00000001\(true\)" evaluated to 1; passed
+test.ba.test_powerstate.PowerState.test_all_supported:
+	PASS: "\[DBG_TRACE_POWER_STATE\]: Resume the deferred scanner" evaluated to 1; passed
+SUMMARY:
+	 Ran 4 tests. 4 passed. 0 failed. 100.00 percent passed. 

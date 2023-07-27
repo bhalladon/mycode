@@ -1,0 +1,16 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_bashevent.BBEvent.test_ransomware_memmap:
+	PASS: Ransomware passed
+test.ba.test_bashevent.BBEvent.test_ransomware_memmap:
+	PASS: "\[APDD\] GetAction returned: 1" evaluated to 1; passed
+test.ba.test_bashevent.BBEvent.test_ransomware_memmap:
+	PASS: "\[APDD\] GetFileObject returned: \w+" evaluated to 1; passed
+test.ba.test_bashevent.BBEvent.test_ransomware_memmap:
+	PASS: "\[APDD\] GetFilePath returned: [\w\\]+" evaluated to 1; passed
+test.ba.test_bashevent.BBEvent.test_ransomware_memmap:
+	PASS: "\[APDD\] GetFileContentTypes returned: .+" evaluated to 1; passed
+SUMMARY:
+	 Ran 5 tests. 5 passed. 0 failed. 100.00 percent passed. 

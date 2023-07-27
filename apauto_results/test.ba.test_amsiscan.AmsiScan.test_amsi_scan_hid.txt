@@ -1,0 +1,38 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	PASS: Expect denied passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	FAIL: Got event! Viral failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	FAIL: Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	FAIL: Action 0: DenyAccess failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	FAIL: Action 0 Flags: Succeeded failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	FAIL: Threat 0 Name: Heur.AdvML.B!200 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	FAIL: Threat 0 VID: 0xfffd0da6 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	FAIL: Threat Count: 1 failed
+SUMMARY:
+	 Ran 8 tests. 1 passed. 7 failed. 12.50 percent passed.
+
+Failed Cases: 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	 Got event! Viral failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	 Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	 Action 0: DenyAccess failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	 Action 0 Flags: Succeeded failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	 Threat 0 Name: Heur.AdvML.B!200 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	 Threat 0 VID: 0xfffd0da6 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_hid:
+	 Threat Count: 1 failed 

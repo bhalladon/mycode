@@ -1,0 +1,2 @@
+ping google.com
+PING google.com (172.217.31.78) 100(128) bytes of data.

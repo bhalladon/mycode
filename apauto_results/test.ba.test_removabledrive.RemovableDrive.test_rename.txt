@@ -1,0 +1,10 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_removabledrive.RemovableDrive.test_rename:
+	PASS: "\[DBG_TRACE_PRERENAME\]: File being renamed from .+hello.txt to .+goodbye.txt. SC: .+" evaluated to 1; passed
+test.ba.test_removabledrive.RemovableDrive.test_rename:
+	PASS: "\[DBG_TRACE_POSTRENAME\]: File object file ID is still .+ after rename" evaluated to 1; passed
+SUMMARY:
+	 Ran 2 tests. 2 passed. 0 failed. 100.00 percent passed. 

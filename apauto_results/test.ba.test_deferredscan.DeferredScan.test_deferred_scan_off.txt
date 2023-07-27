@@ -1,0 +1,36 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	FAIL: Necropolis.A/B failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	FAIL: WM.Bandung.A failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	FAIL: Dir II.A failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	FAIL: EICAR Test String failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	FAIL: Jeru.1808.Frere Jac failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	FAIL: XM.Laroux.CV failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	FAIL: W97M.VMPCK1.BD failed
+SUMMARY:
+	 Ran 7 tests. 0 passed. 7 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	 Necropolis.A/B failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	 WM.Bandung.A failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	 Dir II.A failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	 EICAR Test String failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	 Jeru.1808.Frere Jac failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	 XM.Laroux.CV failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_off:
+	 W97M.VMPCK1.BD failed 

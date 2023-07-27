@@ -1,0 +1,54 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	PASS: Expect denied passed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	FAIL: Got event! Viral failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	FAIL: Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	FAIL: Action 0: DenyAccess failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	FAIL: Action 0 Flags: Succeeded failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	FAIL: Threat 0 Name: Trojan.EV1!g1 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	FAIL: Threat 0 VID: 0xddf1 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	FAIL: Threat 0 Exoneration::Exonerated: false failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	FAIL: Threat 1 Name: Trojan.EV3!g1 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	FAIL: Threat 1 VID: 0xffbe00e1 failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	FAIL: Threat 1 Exoneration::Exonerated: true failed
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	FAIL: Threat Count: 2 failed
+SUMMARY:
+	 Ran 12 tests. 1 passed. 11 failed. 8.33 percent passed.
+
+Failed Cases: 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	 Got event! Viral failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	 Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	 Action 0: DenyAccess failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	 Action 0 Flags: Succeeded failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	 Threat 0 Name: Trojan.EV1!g1 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	 Threat 0 VID: 0xddf1 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	 Threat 0 Exoneration::Exonerated: false failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	 Threat 1 Name: Trojan.EV3!g1 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	 Threat 1 VID: 0xffbe00e1 failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	 Threat 1 Exoneration::Exonerated: true failed 
+test.ba.test_amsiscan.AmsiScan.test_amsi_scan_multi_threats:
+	 Threat Count: 2 failed 

@@ -1,0 +1,10 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_fam.Basic.test_persist:
+	PASS: LightningSand.CFD passed
+test.ba.test_fam.Basic.test_persist:
+	PASS: "Successfully persisted FAM!" evaluated to 1; passed
+SUMMARY:
+	 Ran 2 tests. 2 passed. 0 failed. 100.00 percent passed. 

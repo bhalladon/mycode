@@ -1,0 +1,58 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "D2DStatus: 0x00000000" found in output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "Scan Result: 0x1" found in output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "Got event! Viral" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "Flags 1: .+MEMORY_SCAN_DETECTION" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "File Hash: \w+" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "Threat 0 AVPing Data: \w+" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "47920d4b5248b543862799a3fd1f5e3e" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "424153482050524956415445204259544553" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "adbd03" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "Threat 0 Name: SONAR.Ping!gm" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "Threat 0 VID: 0xffff5fff" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	PASS: "DBG_TRACE_MEMSCAN.+Received memory scan event" evaluated to 1; passed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	FAIL: "DBG_TRACE_MEMSCAN.+Memory scan detected infection" evaluated to 0; failed
+SUMMARY:
+	 Ran 13 tests. 1 passed. 12 failed. 7.69 percent passed.
+
+Failed Cases: 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "D2DStatus: 0x00000000" found in output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "Scan Result: 0x1" found in output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "Got event! Viral" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "Flags 1: .+MEMORY_SCAN_DETECTION" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "File Hash: \w+" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "Threat 0 AVPing Data: \w+" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "47920d4b5248b543862799a3fd1f5e3e" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "424153482050524956415445204259544553" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "adbd03" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "Threat 0 Name: SONAR.Ping!gm" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "Threat 0 VID: 0xffff5fff" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection:
+	 "DBG_TRACE_MEMSCAN.+Memory scan detected infection" evaluated to 0; failed 

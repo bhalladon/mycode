@@ -1,0 +1,32 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_status.Status.test_driver_status:
+	FAIL: c:\users\rajiv\appdata\local\temp\tmpuvn07x\dumbtest.exe failed
+test.ba.test_status.Status.test_driver_status:
+	FAIL: Last Threat Type failed
+test.ba.test_status.Status.test_driver_status:
+	FAIL: Viral Files Found failed
+test.ba.test_status.Status.test_driver_status:
+	FAIL: Last Action failed
+test.ba.test_status.Status.test_driver_status:
+	FAIL: Last Infected File failed
+test.ba.test_status.Status.test_driver_status:
+	FAIL: Last Threat failed
+SUMMARY:
+	 Ran 6 tests. 0 passed. 6 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_status.Status.test_driver_status:
+	 c:\users\rajiv\appdata\local\temp\tmpuvn07x\dumbtest.exe failed 
+test.ba.test_status.Status.test_driver_status:
+	 Last Threat Type failed 
+test.ba.test_status.Status.test_driver_status:
+	 Viral Files Found failed 
+test.ba.test_status.Status.test_driver_status:
+	 Last Action failed 
+test.ba.test_status.Status.test_driver_status:
+	 Last Infected File failed 
+test.ba.test_status.Status.test_driver_status:
+	 Last Threat failed 

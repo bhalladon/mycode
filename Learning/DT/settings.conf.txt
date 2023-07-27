@@ -1,0 +1,13 @@
+[Main]
+MAG2HOST = 10.138.128.35
+MAG2_ADMINUSER = admin
+MAG2_ADMINPASS = admin
+FEED_DIRECTORY = C:\Detection_Testing\mt_samples
+TARGET_VM = ['win7','win7-x64','win8-x64','winxp','sbx']
+EXECUTION_ID =mag2-update-4.2.8.20160219-RELEASE-JENKINS-20160315-2755-shark-201603150322
+TAG = test
+MYSQL_IP=127.0.0.1
+MYSQL_USER=root
+MYSQL_PASS=root
+MYSQL_DB=detection_db
+DEBUG =off

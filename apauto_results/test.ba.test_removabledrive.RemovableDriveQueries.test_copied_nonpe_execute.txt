@@ -1,0 +1,8 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_removabledrive.RemovableDriveQueries.test_copied_nonpe_execute:
+	PASS: nonpe.jpg does not have PINFO attribute passed
+SUMMARY:
+	 Ran 1 tests. 1 passed. 0 failed. 100.00 percent passed. 

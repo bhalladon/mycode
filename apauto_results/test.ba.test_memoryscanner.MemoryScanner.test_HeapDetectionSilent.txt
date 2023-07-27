@@ -1,0 +1,62 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "D2DStatus: 0x00000000" found in exe output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "TID: 0xffff4601" found in exe output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "Scan Result: 0x2" found in exe output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "Got event! Viral" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "Flags 1: .+MEMORY_SCAN_DETECTION" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "File Hash: \w+" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "Threat 0 AVPing Data: \w+" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "47920d4b5248b543862799a3fd1f5e3e" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "424153482050524956415445204259544553" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "adbd03" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "Threat 0 Name: SONAR.Ping!gm" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "Threat 0 VID: 0xffff5fff" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	PASS: "DBG_TRACE_MEMSCAN.+Received memory scan event" evaluated to 1; passed
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	FAIL: "DBG_TRACE_MEMSCAN.+Memory scan detected infection" evaluated to 0; failed
+SUMMARY:
+	 Ran 14 tests. 1 passed. 13 failed. 7.14 percent passed.
+
+Failed Cases: 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "D2DStatus: 0x00000000" found in exe output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "TID: 0xffff4601" found in exe output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "Scan Result: 0x2" found in exe output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "Got event! Viral" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "Flags 1: .+MEMORY_SCAN_DETECTION" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "File Hash: \w+" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "Threat 0 AVPing Data: \w+" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "47920d4b5248b543862799a3fd1f5e3e" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "424153482050524956415445204259544553" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "adbd03" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "Threat 0 Name: SONAR.Ping!gm" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "Threat 0 VID: 0xffff5fff" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_HeapDetectionSilent:
+	 "DBG_TRACE_MEMSCAN.+Memory scan detected infection" evaluated to 0; failed 

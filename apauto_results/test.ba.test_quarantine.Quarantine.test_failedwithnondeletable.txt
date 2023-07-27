@@ -1,0 +1,14 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_quarantine.Quarantine.test_failedwithnondeletable:
+	PASS: Sample still exists. passed
+test.ba.test_quarantine.Quarantine.test_failedwithnondeletable:
+	FAIL: "DBG_TRACE_THREAT.+Not deleting created file on a post create scan as file is non-deletable" evaluated to 0; failed
+SUMMARY:
+	 Ran 2 tests. 1 passed. 1 failed. 50.00 percent passed.
+
+Failed Cases: 
+test.ba.test_quarantine.Quarantine.test_failedwithnondeletable:
+	 "DBG_TRACE_THREAT.+Not deleting created file on a post create scan as file is non-deletable" evaluated to 0; failed 

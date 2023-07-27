@@ -1,0 +1,60 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: Expect access denied failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: Got event! Viral failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: Action 0: DenyAccess failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: Action 0 Flags: Succeeded failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: Threat 0 Name: CL.Downloader failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: Threat 0 VID: 0xffbe00b1 failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: Threat Count: 1 failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: "\[APDD\] - AP_POST_CONTEXTUAL_SCAN" evaluated to 0; failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: "\[APDD\] - - - VirName: CL.Downloader \(0xffbe00b1\)" evaluated to 0; failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: "\[APDD\] - Action Count: 1" evaluated to 0; failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: "\[APDD\] - - - Action\(0\) SUCCEED: 0x1" evaluated to 0; failed
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	FAIL: "\[APDD\] - - - GetFlags1: 0x400" evaluated to 0; failed
+SUMMARY:
+	 Ran 13 tests. 0 passed. 13 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 Expect access denied failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 Got event! Viral failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 Flags 1: 0x400 CONTEXTUAL_SCAN_DETECTION failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 Action 0: DenyAccess failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 Action 0 Flags: Succeeded failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 Threat 0 Name: CL.Downloader failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 Threat 0 VID: 0xffbe00b1 failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 Threat Count: 1 failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 "\[APDD\] - AP_POST_CONTEXTUAL_SCAN" evaluated to 0; failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 "\[APDD\] - - - VirName: CL.Downloader \(0xffbe00b1\)" evaluated to 0; failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 "\[APDD\] - Action Count: 1" evaluated to 0; failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 "\[APDD\] - - - Action\(0\) SUCCEED: 0x1" evaluated to 0; failed 
+test.ba.test_commandlinescan.CommandLineScan.test_command_line_scan_msiexec:
+	 "\[APDD\] - - - GetFlags1: 0x400" evaluated to 0; failed 

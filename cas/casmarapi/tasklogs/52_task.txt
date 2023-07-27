@@ -1,0 +1,152 @@
+[I][Jun 28 08:36:15][CAS:rapi-3][task_id:52] logging started for task_id: 52
+[I][Jun 28 08:37:33][CAS:start-iVM-01][sample_id:48][task_id:52] (agent 1) Start processing task: 52 with profile 'windows-7-64-bit'
+[I][Jun 28 08:37:33][CAS:start-iVM-01][sample_id:48][task_id:52] MA version: 2.3.1.1-213733-CAS-DEBUG
+[I][Jun 28 08:37:33][CAS:start-iVM-01][sample_id:48][task_id:52] Driver version: CASMA-2.3.1-release11-20180131
+[I][Jun 28 08:37:33][CAS:start-iVM-01][sample_id:48][task_id:52] (agent 1) task: 52 properties: {"IVM.TIMEOUT": 70, "_TS.TASK_ENV_INIT": "2018-06-28 08:37:33.425090", "IVM.GUEST_EXTENSION": "bhalla", "DEF.ivm_plugin": "_SYSTEM_:ghost_user.py", "ANALYTICS.PCAP.CREATE_HAR": 1, "_TS.TASK_START": "2018-06-28 08:36:15.066381", "DEF.log_task": 1}
+[I][Jun 28 08:37:33][CAS:start-iVM-01][sample_id:48][task_id:52] running NSE on the sample in the background
+[D][Jun 28 08:37:33][CAS:start-iVM-01][sample_id:48][task_id:52] Launching maa_nse: "['/opt/mag2/usr/bin/maa_nse', '-a', '10', '-def', '/opt/mag2/usr/share/nse/maa_nse.def', '-g', '/opt/mag2/tmp/ivm-1/52.nse_pb.sample.bin', '-f', u'/opt/mag2/store/sample_resources/cf/62/67-cf6296f99e0af755d93ac0275df98068']"
+[D][Jun 28 08:37:33][CAS:start-iVM-01][sample_id:48][task_id:52] Fetching firewall rules from database (vmname: vm02, fwid: 2)
+[I][Jun 28 08:37:33][CAS:start-iVM-01][sample_id:48][task_id:52] firewall 2 successfully applied
+[I][Jun 28 08:37:33][CAS:start-iVM-01][sample_id:48][task_id:52] ['/opt/mag2/usr/bin/qemu_ivm', '-cpu', u'core2duo,-hypervisor', '-smp', '1', '-m', '1024', '-name', 'Windows 7 (x64) - windows-7-64-bit', '-enable-kvm', '-usbdevice', 'tablet', '-qmp', 'unix:/var/run/ivm-02/qmp.sock,server,nowait', '-drive', 'file=/opt/mag2/tmp/ivm-1/snapshot.qcow2,id=ide0,index=0,if=none,cache=unsafe', '-device', u'ide-hd,drive=ide0,model=SEAGATE ST3804224A,ver=3.ALC,serial=4O5MIHSF', '-net', u'nic,macaddr=00-4f-49-ad-42-17,model=rtl8139', '-net', 'tap,ifname=tap2,script=no,downscript=no', u'-smbios', u'type=0,vendor=LENOVO,version=G4PTZOWW (1.18 )', u'-smbios', u'type=1,manufacturer=LENOVO,product=25363EW', '-state-file', u'/opt/mag2/vms/kvm/profiles/windows-7-64-bit/snapshot.state', '-loadvm', 'running', '-S', '-no-shutdown', '-daemonize', '-pidfile', '/var/run/ivm-02/qemu.pid', '-shm-path', 'qemu_2', '-shm-signal-port', '33655', '-shm-signal-magic', '2306310912']
+[D][Jun 28 08:37:35][CAS:start-iVM-01][sample_id:48][task_id:52] New QMP connection
+[D][Jun 28 08:37:35][CAS:start-iVM-01][sample_id:48][task_id:52] Eventlet started
+[D][Jun 28 08:37:35][CAS:start-iVM-01][sample_id:48][task_id:52] Recvlet started
+[D][Jun 28 08:37:35][CAS:start-iVM-01][sample_id:48][task_id:52] Sendlet started
+[D][Jun 28 08:37:35][CAS:start-iVM-01][sample_id:48][task_id:52] QMP 1.6.2 Initialized
+[D][Jun 28 08:37:35][CAS:start-iVM-01][sample_id:48][task_id:52] Stating VM
+[I][Jun 28 08:37:35][CAS:start-iVM-01][sample_id:48][task_id:52] IVM initialization complete. attempting to connect...
+[D][Jun 28 08:37:35][CAS:start-iVM-01][sample_id:48][task_id:52] Got Linux TimeZone = UTC
+[D][Jun 28 08:37:35][CAS:start-iVM-01][sample_id:48][task_id:52] Converted to Windows TimeZone = UTC
+[D][Jun 28 08:37:35][CAS:start-iVM-01][sample_id:48][task_id:52] Local time = Thu Jun 28 08:37:35 2018
+[D][Jun 28 08:37:36][CAS:start-iVM-01][sample_id:48][task_id:52] Connecting to 10.74.1.100:4444..
+[D][Jun 28 08:37:36][CAS:start-iVM-01][sample_id:48][task_id:52] Connected to 10.74.1.100:4444
+[D][Jun 28 08:37:36][CAS:start-iVM-01][sample_id:48][task_id:52] Received banner from server (NES Server ready)
+[D][Jun 28 08:37:36][CAS:start-iVM-01][sample_id:48][task_id:52] Sending code
+[D][Jun 28 08:37:36][CAS:start-iVM-01][sample_id:48][task_id:52] Code uploaded
+[D][Jun 28 08:37:37][CAS:start-iVM-01][sample_id:48][task_id:52] Connected to 10.74.1.100:4748
+[D][Jun 28 08:37:37][CAS:start-iVM-01][sample_id:48][task_id:52] Received banner from server (NES Server ready [srvcode])
+[D][Jun 28 08:37:38][CAS:start-iVM-01][sample_id:48][task_id:52] fetching ticks per second (TPS)...
+[D][Jun 28 08:37:38][CAS:start-iVM-01][sample_id:48][task_id:52] Push file /opt/mag2/store/sample_resources/cf/62/67-cf6296f99e0af755d93ac0275df98068 -> c:\windows\temp\ps1.bhalla
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] File pushed
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Uploading IVM plugin ghost_user.py
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Created directory c:\Windows\Temp\ed996953-4c79-4191-b550-81bcd53f5de5
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Preparing variables
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Setting variables
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Task.exec_args: {sample}
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Setting EXEC_ARGS: "c:\windows\temp\ps1.bhalla"
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Using ProtoRemoteHost: 10.74.1.1:31337
+[I][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] waiting for NSE to complete
+[I][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] NSE completed with status 0
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Calling ghost_user.py->guest_pre_exec()
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Calling script 'ghost_user.py:guest_pre_exec' with timeout 60
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Response from script 'ghost_user.py:guest_pre_exec' : 'None'
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] got global var 'import_resource_list': []
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] import_resource_list: []
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] EventStreamer @ 10.74.1.1:31337
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Starting GPB server 10.74.1.1:31337 |<greenlet.greenlet object at 0x7f396dc71a50>
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Calling ghost_user.py->guest_exec()
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] Calling script 'ghost_user.py:guest_exec' with timeout 60
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] [<string>:1468 -        start_monitor() ] Start monitor {'executable': None, 'config': {'ivm.paranormal.enable': False}, 'skip_sample': False, 'timeout': None}
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] [<string>:1423 - add_sample_to_monitor_list() ] Monitor sample - executable: "c:\Windows\Temp\ps1.bhalla" sample: "c:\windows\temp\ps1.bhalla"
+[D][Jun 28 08:37:39][CAS:start-iVM-01][sample_id:48][task_id:52] [<string>:1529 -         init_monitor() ] ivm config: {u'ivm.ivmservice.shiminject.enable': u'False', u'ivm.pcap.max_size': u'52428800', u'ivm.fmd_fileresource.include_dropped': u'True', u'ivm.net.vmtap.host_ip': u'10.74.1.1', u'ivm.fakedisksize.enable': u'True', u'ivm.net.service.ip': u'10.73.0.254', u'ivm.build.max_attempts': u'1', u'ivm.sharkd.max_fs_size': u'1024', u'ivm.fmd_fileresource.include_deleted': u'True', u'ivm.net.vmtap.netmask': u'255.255.255.0', u'ivm.iso_import.screenshot_interval': u'5', u <TEXT TRUNCATED BY MAG2Logger (too long: 2776)> tection.enable': u'True', u'ivm.fmd_fileresource.enabled': u'True', u'ivm.hideprocesses.enable': u'True', u'ivm.net.vmtap.guest_ip': u'10.74.1.100', u'ivm.build.verify.require_activation': u'True', u'ivm.monitorwmi.indefinite.enable': u'True', u'ivm.customize.events_log.enable': u'True', u'ivm.customize.pagefile.enable': u'True', u'ivm.macaddress': u'random', u'ivm.suspend_processes.enable': u'True', u'ivm.net.dirty.netmask': u'255.255.255.0', u'ivm.net.ns_prefix': u'ivmnet-', u'ivm.pcap.snaplen': u'15284'}
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] GPB server processing: <socket fileno=27 sock=10.74.1.1:31337 peer=10.74.1.100:49159> @ ('10.74.1.100', 49159) |<Greenlet at 0x7f3968fe9a50: _handle_and_close_when_done(<bound method EventStreamer._process_gpb of <norma, <bound method StreamServer.do_close of <StreamServ, (<socket at 0x7f3964358050 fileno=27 sock=10.74.1.)>
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] QEMU EVENT: event 83770000 param 0 pid 0 (0) process 0
+[I][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] ### INTROSPECTION FW INITIALIZED ###
+[I][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] Setting event monitor_pid to 1
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] ['/opt/mag2/usr/bin/maa_introspection', u'win7x64', '/dev/shm/qemu_2', 'eventenable', 'monitor_pid']
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] event monitor_pid set
+[I][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] Setting event cb_terminate_process to 1
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] ['/opt/mag2/usr/bin/maa_introspection', u'win7x64', '/dev/shm/qemu_2', 'eventenable', 'cb_terminate_process']
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] event cb_terminate_process set
+[I][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] Setting event nt_terminate_process to 1
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] ['/opt/mag2/usr/bin/maa_introspection', u'win7x64', '/dev/shm/qemu_2', 'eventenable', 'nt_terminate_process']
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] event nt_terminate_process set
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] QEMU EVENT: event 83770006 param 0 pid 690 (1680) process fffffa800281c3a0
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] Named event 'cb_terminate_process'
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] pid 690 (1680) not in monitor list
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] [<string>:1060 -         shellexecute() ] Shellexecute {'cmd': 'c:\\py\\pythonw.exe c:\\tmp19olwk.pyw ', 'pname': 'explorer.exe'}
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] QEMU EVENT: event 83770006 param 0 pid 580 (1408) process fffffa800281c3a0
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] Named event 'cb_terminate_process'
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] pid 580 (1408) not in monitor list
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] [<string>:1060 -         shellexecute() ] Shellexecute {'cmd': '"c:\\windows\\temp\\ps1.bhalla"', 'pname': 'explorer.exe'}
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] QEMU EVENT: event 83770006 param 0 pid 634 (1588) process fffffa8002a25b30
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] Named event 'cb_terminate_process'
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] pid 634 (1588) not in monitor list
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] Response from script 'ghost_user.py:guest_exec' : 'None'
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] Limiting events to approximately 100000 events (soft limit).
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] Streaming data to: /opt/mag2/tmp/ivm-1/52.pb.bin
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] Stream; Connection from VM established
+[D][Jun 28 08:37:40][CAS:start-iVM-01][sample_id:48][task_id:52] Skipping event... unable to decode
+[D][Jun 28 08:38:20][CAS:start-iVM-01][sample_id:48][task_id:52] QEMU EVENT: event 83770006 param 0 pid 818 (2072) process fffffa80027824c0
+[D][Jun 28 08:38:20][CAS:start-iVM-01][sample_id:48][task_id:52] Named event 'cb_terminate_process'
+[D][Jun 28 08:38:20][CAS:start-iVM-01][sample_id:48][task_id:52] pid 818 (2072) not in monitor list
+[D][Jun 28 08:38:20][CAS:start-iVM-01][sample_id:48][task_id:52] QEMU EVENT: event 83770006 param 0 pid 834 (2100) process fffffa801578b410
+[D][Jun 28 08:38:20][CAS:start-iVM-01][sample_id:48][task_id:52] Named event 'cb_terminate_process'
+[D][Jun 28 08:38:20][CAS:start-iVM-01][sample_id:48][task_id:52] pid 834 (2100) not in monitor list
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] Done retrieving streaming GPB data. (<socket fileno=27 sock=10.74.1.1:31337 peer=10.74.1.100:49159 timeout=10.0>,('10.74.1.100', 49159)) |<Greenlet at 0x7f3968fe9a50: _handle_and_close_when_done(<bound method EventStreamer._process_gpb of <norma, <bound method StreamServer.do_close of <StreamServ, (<socket at 0x7f3964358050 fileno=27 sock=10.74.1.)>
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] Done streaming events | Events objects: 1
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] Event limiter saw 0 events
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] Stopped event streaming server
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] fetching static events protocol buffer...
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] Get static events file c:\static_events.gpb -> /opt/mag2/tmp/ivm-1/52.static_pb.bin
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] Received static events file c:\static_events.gpb -> /opt/mag2/tmp/ivm-1/52.static_pb.bin (md5 8e2eb1863bcdb40b8da26dd18ed21ccc) in 0.046914100647s
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] fetching pcap...
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] pcap_sz: 7538
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] Get file c:\dump.pcap -> /opt/mag2/tmp/ivm-1/52.pcap
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] Received file c:\dump.pcap -> /opt/mag2/tmp/ivm-1/52.pcap (md5 d3235db9a4de53cd8939d5218c0795b9) in 0.00371813774109s
+[E][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] No dynamic events generated
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] fetching screenshots...
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] Capture screenshots of new visible windows
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] QEMU EVENT: event 83770006 param 0 pid 8c4 (2244) process fffffa80027ab250
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] Named event 'cb_terminate_process'
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] pid 8c4 (2244) not in monitor list
+[D][Jun 28 08:38:50][CAS:start-iVM-01][sample_id:48][task_id:52] [<string>:1060 -         shellexecute() ] Shellexecute {'cmd': 'c:\\py\\pythonw.exe c:\\tmpxr2hsy.pyw ', 'pname': 'explorer.exe'}
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] [<string>:1060 -         shellexecute() ] Shellexecute {'cmd': 'c:\\py\\pythonw.exe c:\\tmpxc8r3s.pyw 65860 C:\\Windows\\TEMP screenshot-%08x.png 30', 'pname': 'explorer.exe'}
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] QEMU EVENT: event 83770006 param 0 pid 8d8 (2264) process fffffa80027d5810
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Named event 'cb_terminate_process'
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] pid 8d8 (2264) not in monitor list
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] QEMU EVENT: event 83770006 param 0 pid 8e0 (2272) process fffffa80027ab250
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Named event 'cb_terminate_process'
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] pid 8e0 (2272) not in monitor list
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Received screenshot handles: 65860
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Get screenshot of handle 65860
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Received screenshot (/opt/mag2/tmp/ivm-1/screenshot-52-65860.png)
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Calling post_exec()
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] QEMU EVENT: event 83770006 param 0 pid 8f4 (2292) process fffffa80026e5160
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Named event 'cb_terminate_process'
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] pid 8f4 (2292) not in monitor list
+[I][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] [<string>:1985 - add_crashdumps_as_resources() ] Adding crash dumps as resources
+[I][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] [<string>:1961 - add_processdumps_as_resources() ] Adding process dumps as resources
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] POST_EXEC: OK
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Calling ghost_user.py->guest_post_exec()
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Calling script 'ghost_user.py:guest_post_exec' with timeout 60
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Response from script 'ghost_user.py:guest_post_exec' : 'None'
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] c:\Windows\Temp\ed996953-4c79-4191-b550-81bcd53f5de5 -> None
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Finalizing list of dropped files
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Sample file hash: c:\windows\temp\ps1.bhalla (14ba24df83b043618d364ade003bfaa1fd9ce77689c6c2ed3a17bccb229bbe7e, cf6296f99e0af755d93ac0275df98068)
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] No resources
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Pausing VM
+[I][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Processing stop event
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] No processes still alive
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Stopping VM
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Gracefully stopping qemu
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Closing QMP connection
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Eventlet stopped
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Sendlet stopped
+[W][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Ignored exception: TimeoutExpired - (pid=30987, name='qemu_ivm') on line 369
+[W][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Killing the qemu process 30987
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] The qemu process has exited
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] filtering pcap...
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] pcap_sz after filter: 1961
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] flows=0, HTTP pairs=0
+[D][Jun 28 08:38:51][CAS:start-iVM-01][sample_id:48][task_id:52] Applying YARA rules on /opt/mag2/store/sample_resources/cf/62/67-cf6296f99e0af755d93ac0275df98068
+[D][Jun 28 08:38:52][CAS:start-iVM-01][sample_id:48][task_id:52] Trying to get GIN data....
+[D][Jun 28 08:38:52][CAS:start-iVM-01][sample_id:48][task_id:52] ....We have no HAR data
+[D][Jun 28 08:38:52][CAS:start-iVM-01][sample_id:48][task_id:52] Finished trying to get GIN data
+[D][Jun 28 08:38:52][CAS:mq-consume-events-00][sample_id:48][task_id:52] handle_event_insert start
+[I][Jun 28 08:38:52][CAS:start-iVM-01][sample_id:48][task_id:52] (agent 1) Completed processing task: 52
+[D][Jun 28 08:38:52][CAS:start-iVM-01][sample_id:48][task_id:52] process_task rusage: resource.struct_rusage(ru_utime=0.958, ru_stime=0.191, ru_maxrss=64032, ru_ixrss=0, ru_idrss=0, ru_isrss=0, ru_minflt=30354, ru_majflt=0, ru_nswap=0, ru_inblock=0, ru_oublock=64424, ru_msgsnd=0, ru_msgrcv=0, ru_nsignals=0, ru_nvcsw=706, ru_nivcsw=62)
+[D][Jun 28 08:39:01][CAS:mq-consume-events-00][sample_id:48][task_id:52] Got file reputation results
+[D][Jun 28 08:39:01][CAS:mq-consume-events-00][sample_id:48][task_id:52] [c:\windows\temp\ps1.bhalla][14ba24df83b043618d364ade003bfaa1fd9ce77689c6c2ed3a17bccb229bbe7e]  (-1)
+[D][Jun 28 08:39:01][CAS:mq-consume-events-00][sample_id:48][task_id:52] MAG2PatternEngine.process() exec_time: 0
+[I][Jun 28 08:39:01][CAS:mq-consume-events-00][sample_id:48][task_id:52] protocol buffer saved to /opt/mag2/store/external/task_events/2018/06/642e92efb79421734881b53e1e1b18b6-52.gpb.gz

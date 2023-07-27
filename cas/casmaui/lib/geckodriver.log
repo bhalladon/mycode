@@ -1,0 +1,80 @@
+1489555459811	geckodriver	INFO	Listening on 127.0.0.1:40356
+1489555460808	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2N92tVvEV2lZ
+1489555460809	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489555460809	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42642
+
+(firefox:25306): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1489555461658	Marionette	INFO	Listening on port 42642
+1489555707132	geckodriver	INFO	Listening on 127.0.0.1:47405
+1489555708131	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Qvw9hLkI55Z5
+1489555708131	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489555708132	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37340
+
+(firefox:25941): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1489555708827	Marionette	INFO	Listening on port 37340
+1489555715694	geckodriver	INFO	Listening on 127.0.0.1:54482
+1489555716693	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kDVq7nH3uGsm
+1489555716693	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489555716694	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34389
+
+(firefox:26088): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1489555717476	Marionette	INFO	Listening on port 34389
+1489555870681	geckodriver	INFO	Listening on 127.0.0.1:46977
+1489555871686	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KwW7qu3peeH3
+1489555871687	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489555871688	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33173
+
+(firefox:26504): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1489555872678	Marionette	INFO	Listening on port 33173
+1489557392179	geckodriver	INFO	Listening on 127.0.0.1:57676
+1489557393143	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BXjl5PfjUlGg
+1489557393144	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489557393145	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33449
+
+(firefox:28469): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1489557394221	Marionette	INFO	Listening on port 33449
+1489559213912	geckodriver	INFO	Listening on 127.0.0.1:43566
+1489559214897	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.38iM5d1ujWCw
+1489559214897	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489559214900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44750
+
+(firefox:30489): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1489559215806	Marionette	INFO	Listening on port 44750
+1489559225323	geckodriver	INFO	Listening on 127.0.0.1:53488
+1489559226323	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.12W31bUp9S2y
+1489559226323	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489559226325	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34772
+
+(firefox:30642): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1489559227166	Marionette	INFO	Listening on port 34772
+1489567378362	geckodriver	INFO	Listening on 127.0.0.1:41139
+1489567379362	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Cw8o7cHFMRl0
+1489567379362	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489567379363	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45124
+
+(firefox:9087): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1489567380126	Marionette	INFO	Listening on port 45124
+1489567446110	geckodriver	INFO	Listening on 127.0.0.1:46262
+1489567447110	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sVaKQGVzWSiJ
+1489567447111	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489567447111	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43709
+
+(firefox:9445): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1489567447869	Marionette	INFO	Listening on port 43709
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+1489567875673	geckodriver	INFO	Listening on 127.0.0.1:40695
+1489567876673	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.C0Py4VrX6E9J
+1489567876673	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489567876674	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43370
+
+(firefox:10632): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1489567877368	Marionette	INFO	Listening on port 43370
+1489568119964	geckodriver	INFO	Listening on 127.0.0.1:34527
+1489568120965	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QaaU0urGDLIc
+1489568120965	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1489568120966	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41393
+
+(firefox:11525): IBUS-WARNING **: The owner of /home/bhalla/.config/ibus/bus is not root!
+1489568122193	Marionette	INFO	Listening on port 41393

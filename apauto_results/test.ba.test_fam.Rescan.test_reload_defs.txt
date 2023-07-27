@@ -1,0 +1,16 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_fam.Rescan.test_reload_defs:
+	PASS: "Reloading definitions \(bAuthenticate:\w+\)" evaluated to 1; passed
+test.ba.test_fam.Rescan.test_reload_defs:
+	PASS: "CSrtDefsManager::ReloadDefinitions returning hr=0x0" evaluated to 1; passed
+test.ba.test_fam.Rescan.test_reload_defs:
+	PASS: "Reloading AVE for defs reload event" evaluated to 1; passed
+test.ba.test_fam.Rescan.test_reload_defs:
+	PASS: "Initialized a rescan worker" evaluated to 1; passed
+test.ba.test_fam.Rescan.test_reload_defs:
+	PASS: "Started FAM rescan worker on FLT_INSTANCE" evaluated to 1; passed
+SUMMARY:
+	 Ran 5 tests. 5 passed. 0 failed. 100.00 percent passed. 

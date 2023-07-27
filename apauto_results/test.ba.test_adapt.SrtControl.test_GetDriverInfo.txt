@@ -1,0 +1,14 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_adapt.SrtControl.test_GetDriverInfo:
+	PASS: Driver Version passed
+test.ba.test_adapt.SrtControl.test_GetDriverInfo:
+	PASS: AVE Version passed
+test.ba.test_adapt.SrtControl.test_GetDriverInfo:
+	PASS: MiniFilter passed
+test.ba.test_adapt.SrtControl.test_GetDriverInfo:
+	PASS: DynaCat Aware passed
+SUMMARY:
+	 Ran 4 tests. 4 passed. 0 failed. 100.00 percent passed. 

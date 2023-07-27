@@ -1,0 +1,10 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_health.Health.test_srtsp:
+	PASS: isServiceInstalled passed
+test.ba.test_health.Health.test_srtsp:
+	PASS: isServiceRunning passed
+SUMMARY:
+	 Ran 2 tests. 2 passed. 0 failed. 100.00 percent passed. 

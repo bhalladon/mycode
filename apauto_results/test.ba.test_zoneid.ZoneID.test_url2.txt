@@ -1,0 +1,10 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_zoneid.ZoneID.test_url2:
+	PASS: https://www.nirsoft.net/utils/ipnetinfo_setup.exe passed
+test.ba.test_zoneid.ZoneID.test_url2:
+	PASS: https://www.nirsoft.net/utils/ipnetinfo.html passed
+SUMMARY:
+	 Ran 2 tests. 2 passed. 0 failed. 100.00 percent passed. 

@@ -1,0 +1,58 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "D2DStatus: 0x00000000" found in output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "Scan Result: 0x1" found in output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "Got event! Viral" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "Flags 1: .+MEMORY_SCAN_DETECTION" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "File Hash: \w+" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "Threat 0 AVPing Data: \w+" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "47920d4b5248b543862799a3fd1f5e3e" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "424153482050524956415445204259544553" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "adbd03" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "Threat 0 Name: SONAR.Ping!gm" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "Threat 0 VID: 0xffff5fff" found in adapt output evaluated to 0; failed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	PASS: "DBG_TRACE_MEMSCAN.+Received memory scan event" evaluated to 1; passed
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	FAIL: "DBG_TRACE_MEMSCAN.+Memory scan detected infection" evaluated to 0; failed
+SUMMARY:
+	 Ran 13 tests. 1 passed. 12 failed. 7.69 percent passed.
+
+Failed Cases: 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "D2DStatus: 0x00000000" found in output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "Scan Result: 0x1" found in output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "Got event! Viral" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "Flags 1: .+MEMORY_SCAN_DETECTION" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "File Hash: \w+" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "Threat 0 AVPing Data: \w+" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "47920d4b5248b543862799a3fd1f5e3e" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "424153482050524956415445204259544553" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "adbd03" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "Threat 0 Name: SONAR.Ping!gm" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "Threat 0 VID: 0xffff5fff" found in adapt output evaluated to 0; failed 
+test.ba.test_memoryscanner.MemoryScanner.test_ModuleDetection_wow64:
+	 "DBG_TRACE_MEMSCAN.+Memory scan detected infection" evaluated to 0; failed 

@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_fam.Network.test_clean_file:
+	PASS: FAM determined FS_CLEAN passed
+test.ba.test_fam.Network.test_clean_file:
+	PASS: FAM determined FS_FILE_HAS_BEEN_SCANNED passed
+test.ba.test_fam.Network.test_clean_file:
+	PASS: FAM determined FS_FILE_TYPE_PE passed
+SUMMARY:
+	 Ran 3 tests. 3 passed. 0 failed. 100.00 percent passed. 

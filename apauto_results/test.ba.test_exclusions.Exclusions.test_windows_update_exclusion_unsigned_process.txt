@@ -1,0 +1,8 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_exclusions.Exclusions.test_windows_update_exclusion_unsigned_process:
+	PASS: "\[DBG_TRACE_EXCLUSIONS\]: Process .+svchost\.exe is safe excluded by directory." evaluated to 0; passed
+SUMMARY:
+	 Ran 1 tests. 1 passed. 0 failed. 100.00 percent passed. 

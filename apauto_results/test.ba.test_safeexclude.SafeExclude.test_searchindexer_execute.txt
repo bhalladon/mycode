@@ -1,0 +1,14 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_safeexclude.SafeExclude.test_searchindexer_execute:
+	FAIL: c:\users\rajiv\appdata\local\temp\tmplffelz\dumbtest.exe failed
+test.ba.test_safeexclude.SafeExclude.test_searchindexer_execute:
+	PASS: "Not honoring safe exclude process because file is open for execute" evaluated to 1; passed
+SUMMARY:
+	 Ran 2 tests. 1 passed. 1 failed. 50.00 percent passed.
+
+Failed Cases: 
+test.ba.test_safeexclude.SafeExclude.test_searchindexer_execute:
+	 c:\users\rajiv\appdata\local\temp\tmplffelz\dumbtest.exe failed 

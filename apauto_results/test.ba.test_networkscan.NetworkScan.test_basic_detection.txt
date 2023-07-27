@@ -1,0 +1,20 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_networkscan.NetworkScan.test_basic_detection:
+	FAIL: denied access to threat failed
+test.ba.test_networkscan.NetworkScan.test_basic_detection:
+	FAIL: "Got event! Viral" found in output evaluated to 0; failed
+test.ba.test_networkscan.NetworkScan.test_basic_detection:
+	FAIL: "File in trouble: \\\\DESKTOP-6JQBMP9.+dumbtest\.exe" found in output evaluated to 0; failed
+SUMMARY:
+	 Ran 3 tests. 0 passed. 3 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_networkscan.NetworkScan.test_basic_detection:
+	 denied access to threat failed 
+test.ba.test_networkscan.NetworkScan.test_basic_detection:
+	 "Got event! Viral" found in output evaluated to 0; failed 
+test.ba.test_networkscan.NetworkScan.test_basic_detection:
+	 "File in trouble: \\\\DESKTOP-6JQBMP9.+dumbtest\.exe" found in output evaluated to 0; failed 

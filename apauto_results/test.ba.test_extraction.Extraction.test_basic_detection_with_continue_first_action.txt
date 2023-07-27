@@ -1,0 +1,40 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	FAIL: Necropolis.A/B failed
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	FAIL: WM.Bandung.A failed
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	FAIL: Dir II.A failed
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	FAIL: EICAR Test String failed
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	FAIL: Jeru.1808.Frere Jac failed
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	FAIL: XM.Laroux.CV failed
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	FAIL: W97M.VMPCK1.BD failed
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	FAIL: Action Continue result failed
+SUMMARY:
+	 Ran 8 tests. 0 passed. 8 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	 Necropolis.A/B failed 
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	 WM.Bandung.A failed 
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	 Dir II.A failed 
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	 EICAR Test String failed 
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	 Jeru.1808.Frere Jac failed 
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	 XM.Laroux.CV failed 
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	 W97M.VMPCK1.BD failed 
+test.ba.test_extraction.Extraction.test_basic_detection_with_continue_first_action:
+	 Action Continue result failed 

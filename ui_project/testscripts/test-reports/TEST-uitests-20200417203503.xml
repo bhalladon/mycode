@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="uitests-20200417203503" tests="1" time="28.935">
+	<testcase classname="uitests" name="test_a_request_demo" time="28.935"/>
+	<system-out>
+<![CDATA[Element found
+Request for demo submitted successfully
+Closing browser
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

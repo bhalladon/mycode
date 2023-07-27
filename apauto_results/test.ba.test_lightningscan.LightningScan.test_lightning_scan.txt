@@ -1,0 +1,28 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_lightningscan.LightningScan.test_lightning_scan:
+	FAIL: tcpdummy_PlainPE_singleCloud_Hit_x64.exe failed
+test.ba.test_lightningscan.LightningScan.test_lightning_scan:
+	FAIL: tcpdummy_PlainPE_singleCloud_Hit_x86.exe failed
+test.ba.test_lightningscan.LightningScan.test_lightning_scan:
+	FAIL: tcpdummy_PlainPE_singleCloud_Hit_x86_2.exe failed
+test.ba.test_lightningscan.LightningScan.test_lightning_scan:
+	FAIL: tcpdummy_PlainPE_singleCloud_Hit_x86_3.exe failed
+test.ba.test_lightningscan.LightningScan.test_lightning_scan:
+	FAIL: tcpdummy_PlainPE_singleCloud_Hit_x86_4.exe failed
+SUMMARY:
+	 Ran 5 tests. 0 passed. 5 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_lightningscan.LightningScan.test_lightning_scan:
+	 tcpdummy_PlainPE_singleCloud_Hit_x64.exe failed 
+test.ba.test_lightningscan.LightningScan.test_lightning_scan:
+	 tcpdummy_PlainPE_singleCloud_Hit_x86.exe failed 
+test.ba.test_lightningscan.LightningScan.test_lightning_scan:
+	 tcpdummy_PlainPE_singleCloud_Hit_x86_2.exe failed 
+test.ba.test_lightningscan.LightningScan.test_lightning_scan:
+	 tcpdummy_PlainPE_singleCloud_Hit_x86_3.exe failed 
+test.ba.test_lightningscan.LightningScan.test_lightning_scan:
+	 tcpdummy_PlainPE_singleCloud_Hit_x86_4.exe failed 

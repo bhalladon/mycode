@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_health.Health.test_service:
+	PASS: isServiceInstalled passed
+test.ba.test_health.Health.test_service:
+	PASS: isServiceRunning passed
+test.ba.test_health.Health.test_service:
+	PASS: srtsp64.dll passed
+SUMMARY:
+	 Ran 3 tests. 3 passed. 0 failed. 100.00 percent passed. 

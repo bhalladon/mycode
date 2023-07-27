@@ -1,0 +1,16 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_tcp.TCP.test_tcp_basic:
+	FAIL: TCP Basic failed
+test.ba.test_tcp.TCP.test_tcp_basic:
+	FAIL: TCP_DETECTION_FLAG failed
+SUMMARY:
+	 Ran 2 tests. 0 passed. 2 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_tcp.TCP.test_tcp_basic:
+	 TCP Basic failed 
+test.ba.test_tcp.TCP.test_tcp_basic:
+	 TCP_DETECTION_FLAG failed 

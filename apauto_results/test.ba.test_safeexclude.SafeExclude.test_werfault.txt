@@ -1,0 +1,16 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_safeexclude.SafeExclude.test_werfault:
+	PASS: "DBG_TRACE_FSM.+Skipping scan for must exclude process.+WerFault\.exe" evaluated to 1; passed
+test.ba.test_safeexclude.SafeExclude.test_werfault:
+	PASS: "DBG_TRACE_DEFERRAL.+Inserted event for.+hello\.txt" evaluated to 1; passed
+test.ba.test_safeexclude.SafeExclude.test_werfault:
+	FAIL: "DBG_TRACE_SCAN.+Scan enter for.+hello\.txt" evaluated to 0; failed
+SUMMARY:
+	 Ran 3 tests. 2 passed. 1 failed. 66.67 percent passed.
+
+Failed Cases: 
+test.ba.test_safeexclude.SafeExclude.test_werfault:
+	 "DBG_TRACE_SCAN.+Scan enter for.+hello\.txt" evaluated to 0; failed 

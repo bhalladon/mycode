@@ -1,0 +1,8 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_cancelroutine.CancelRoutine.test_killservice:
+	PASS: "\[DBG_TRACE_PROXYFSDEV\]: Cancel Irp: [0-9A-F]{8}" evaluated to 1; passed
+SUMMARY:
+	 Ran 1 tests. 1 passed. 0 failed. 100.00 percent passed. 

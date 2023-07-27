@@ -1,0 +1,18 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_above_maximum_file_extension_allowed:
+	FAIL: Total TCP Scan: 0 failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_above_maximum_file_extension_allowed:
+	FAIL: Success: Scan Complete using ccScanw failed
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_above_maximum_file_extension_allowed:
+	PASS: ": Forcing TCP for non-PE file .+large.jse" evaluated to 0; passed
+SUMMARY:
+	 Ran 3 tests. 1 passed. 2 failed. 33.33 percent passed.
+
+Failed Cases: 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_above_maximum_file_extension_allowed:
+	 Total TCP Scan: 0 failed 
+test.ba.test_forcetcp.ForceTCP.test_non_pe_filesize_above_maximum_file_extension_allowed:
+	 Success: Scan Complete using ccScanw failed 

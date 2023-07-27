@@ -1,0 +1,18 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_bad_sds_defs.BadSDSDefsTest.test_sds_defs_missing:
+	PASS: test_sds_defs_missing passed
+test.ba.test_bad_sds_defs.BadSDSDefsTest.test_sds_defs_missing:
+	FAIL: srtspscan dll unmapped failed
+test.ba.test_bad_sds_defs.BadSDSDefsTest.test_sds_defs_missing:
+	FAIL: srtsp driver stopped failed
+SUMMARY:
+	 Ran 3 tests. 1 passed. 2 failed. 33.33 percent passed.
+
+Failed Cases: 
+test.ba.test_bad_sds_defs.BadSDSDefsTest.test_sds_defs_missing:
+	 srtspscan dll unmapped failed 
+test.ba.test_bad_sds_defs.BadSDSDefsTest.test_sds_defs_missing:
+	 srtsp driver stopped failed 

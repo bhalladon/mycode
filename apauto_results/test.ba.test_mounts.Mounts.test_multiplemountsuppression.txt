@@ -1,0 +1,16 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_mounts.Mounts.test_multiplemountsuppression:
+	PASS: Drive Letter: E: passed
+test.ba.test_mounts.Mounts.test_multiplemountsuppression:
+	PASS: Drive Letter: F: passed
+test.ba.test_mounts.Mounts.test_multiplemountsuppression:
+	PASS: Reasonable mount event count passed
+test.ba.test_mounts.Mounts.test_multiplemountsuppression:
+	PASS: "\[DBG_TRACE_MOUNT_USERMODE\]\: Similar mount event seen in the recent history" evaluated to 1; passed
+test.ba.test_mounts.Mounts.test_multiplemountsuppression:
+	PASS: "\[DBG_TRACE_MOUNT_USERMODE\]\: Suppressing duplicate mount event received within a short time of a similar previous mount event" evaluated to 1; passed
+SUMMARY:
+	 Ran 5 tests. 5 passed. 0 failed. 100.00 percent passed. 

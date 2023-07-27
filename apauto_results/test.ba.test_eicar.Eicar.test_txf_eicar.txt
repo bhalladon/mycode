@@ -1,0 +1,16 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_eicar.Eicar.test_txf_eicar:
+	FAIL: Eicar detection failed
+test.ba.test_eicar.Eicar.test_txf_eicar:
+	PASS: Transaction ID passed
+test.ba.test_eicar.Eicar.test_txf_eicar:
+	PASS: c:\users\rajiv\appdata\local\temp\tmpzhmeod passed
+SUMMARY:
+	 Ran 3 tests. 2 passed. 1 failed. 66.67 percent passed.
+
+Failed Cases: 
+test.ba.test_eicar.Eicar.test_txf_eicar:
+	 Eicar detection failed 

@@ -1,0 +1,18 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_networkscan.NetworkScan.test_remote_scan_on_extension:
+	PASS: denied access to threat passed
+test.ba.test_networkscan.NetworkScan.test_remote_scan_on_extension:
+	FAIL: "Got event! Viral" found in output evaluated to 0; failed
+test.ba.test_networkscan.NetworkScan.test_remote_scan_on_extension:
+	FAIL: "File in trouble: \\\\DESKTOP-6JQBMP9.+evil\.js" found in output evaluated to 0; failed
+SUMMARY:
+	 Ran 3 tests. 1 passed. 2 failed. 33.33 percent passed.
+
+Failed Cases: 
+test.ba.test_networkscan.NetworkScan.test_remote_scan_on_extension:
+	 "Got event! Viral" found in output evaluated to 0; failed 
+test.ba.test_networkscan.NetworkScan.test_remote_scan_on_extension:
+	 "File in trouble: \\\\DESKTOP-6JQBMP9.+evil\.js" found in output evaluated to 0; failed 

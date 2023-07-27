@@ -1,0 +1,10 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_disarm.Disarm.test_disarm:
+	PASS: "DBG_TRACE_DISARM.+Received Disarm event" evaluated to 1; passed
+test.ba.test_disarm.Disarm.test_disarm:
+	PASS: "DBG_TRACE_DISARM.+Disarm request was handled successfully" evaluated to 1; passed
+SUMMARY:
+	 Ran 2 tests. 2 passed. 0 failed. 100.00 percent passed. 

@@ -1,0 +1,44 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	FAIL: Necropolis.A/B failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	FAIL: WM.Bandung.A failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	FAIL: Dir II.A failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	FAIL: EICAR Test String failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	FAIL: Jeru.1808.Frere Jac failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	FAIL: XM.Laroux.CV failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	FAIL: W97M.VMPCK1.BD failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	FAIL: Flags 1:.+DEFERRED_SCAN_DETECTION failed
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	FAIL: Flags 2:.+PRECLEANUP_FILE_MODIFIED failed
+SUMMARY:
+	 Ran 9 tests. 0 passed. 9 failed. 0.00 percent passed.
+
+Failed Cases: 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	 Necropolis.A/B failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	 WM.Bandung.A failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	 Dir II.A failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	 EICAR Test String failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	 Jeru.1808.Frere Jac failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	 XM.Laroux.CV failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	 W97M.VMPCK1.BD failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	 Flags 1:.+DEFERRED_SCAN_DETECTION failed 
+test.ba.test_deferredscan.DeferredScan.test_deferred_scan_on_positive:
+	 Flags 2:.+PRECLEANUP_FILE_MODIFIED failed 

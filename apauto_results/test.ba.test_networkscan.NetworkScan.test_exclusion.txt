@@ -1,0 +1,14 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_networkscan.NetworkScan.test_exclusion:
+	PASS: allowed access to excluded threat passed
+test.ba.test_networkscan.NetworkScan.test_exclusion:
+	PASS: "Got event! Viral" not found in output evaluated to 1; passed
+test.ba.test_networkscan.NetworkScan.test_exclusion:
+	PASS: "File in trouble: \\\\DESKTOP-6JQBMP9.+dumbtest\.exe" not found in output evaluated to 1; passed
+test.ba.test_networkscan.NetworkScan.test_exclusion:
+	PASS: "Skipping TCP work on excluded file \\Device\\(Mup|LanmanRedirector)\\DESKTOP-6JQBMP9.+dumbtest\.exe" evaluated to 1; passed
+SUMMARY:
+	 Ran 4 tests. 4 passed. 0 failed. 100.00 percent passed. 

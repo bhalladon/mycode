@@ -1,0 +1,12 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_version.Version.test_get_version:
+	PASS: "Major: 100" passed
+test.ba.test_version.Version.test_get_version:
+	PASS: "Minor: 1" passed
+test.ba.test_version.Version.test_get_version:
+	PASS: "Revision: 0" passed
+SUMMARY:
+	 Ran 3 tests. 3 passed. 0 failed. 100.00 percent passed. 

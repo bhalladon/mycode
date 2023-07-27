@@ -1,0 +1,54 @@
+****************************
+* Build Acceptance Results *
+****************************
+
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	PASS: eicar.com passed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	PASS: eicar.com passed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	FAIL: backdoor.sdbot.exe failed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	FAIL: backdoor.sdbot.txt failed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	FAIL: infostealer.banpaes.exe failed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	FAIL: infostealer.banpaes.txt failed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	FAIL: troj.goldun.b.exe failed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	FAIL: troj.goldun.b.txt failed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	PASS: trojan.horse.exe passed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	PASS: trojan.horse.txt passed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	PASS: trojan.nebuler.exe passed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	PASS: trojan.nebuler.txt passed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	FAIL: trojan.tooso.l.exe failed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	FAIL: trojan.tooso.l.txt failed
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	PASS: eicar.com eicar.com backdoor.sdbot.exe backdoor.sdbot.txt infostealer.banpaes.exe infostealer.banpaes.txt troj.goldun.b.exe troj.goldun.b.txt trojan.horse.exe trojan.horse.txt trojan.nebuler.exe trojan.nebuler.txt trojan.tooso.l.exe trojan.tooso.l.txt passed
+SUMMARY:
+	 Ran 15 tests. 7 passed. 8 failed. 46.67 percent passed.
+
+Failed Cases: 
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	 backdoor.sdbot.exe failed 
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	 backdoor.sdbot.txt failed 
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	 infostealer.banpaes.exe failed 
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	 infostealer.banpaes.txt failed 
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	 troj.goldun.b.exe failed 
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	 troj.goldun.b.txt failed 
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	 trojan.tooso.l.exe failed 
+test.ba.test_deferredscan_dropper.DeferredScanDropper.test_basic:
+	 trojan.tooso.l.txt failed 
